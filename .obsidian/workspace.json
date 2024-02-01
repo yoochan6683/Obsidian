@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/https(Firebase RealTimeDatabse)/사용준비.md",
+                "file": "Flutter/https(Firebase RealTimeDatabase)/Delete.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/https(Firebase RealTimeDatabse)/사용준비.md",
+                "file": "Flutter/https(Firebase RealTimeDatabase)/Delete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/https(Firebase RealTimeDatabse)/사용준비.md",
+                "file": "Flutter/https(Firebase RealTimeDatabase)/Delete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/https(Firebase RealTimeDatabse)/사용준비.md"
+                "file": "Flutter/https(Firebase RealTimeDatabase)/Delete.md"
               }
             }
           },
@@ -157,9 +157,10 @@
   },
   "active": "76f02cfd7896f80c",
   "lastOpenFiles": [
+    "Flutter/https(Firebase.md",
     "Flutter/https(Firebase RealTimeDatabase)/Delete.md",
-    "Flutter/https(Firebase RealTimeDatabase)/사용준비.md",
     "Flutter/https(Firebase RealTimeDatabse)/사용준비.md",
+    "Flutter/https(Firebase RealTimeDatabase)/사용준비.md",
     "Flutter/https(Firebase RealTimeDatabse)",
     "Flutter/Authentication/Firebase/Firebase Storage 이용하기.md",
     "Flutter/Authentication/Firebase/(Firebase) 이메일 유저 생성,로그인 하기.md",
@@ -183,7 +184,6 @@
     "Flutter/외부 라이브러리/sqflite CRUD.md",
     "C/EOF.md",
     "C/체스 색깔 최소 변경 알고리즘.md",
-    "C/나머지 개수 세기.md",
     "images/Pasted image 20240108170138.png",
     "images/Pasted image 20240129210058.png",
     "images/Pasted image 20240128220156.png",
