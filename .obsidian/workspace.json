@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/widgets/애니메이션 넣기(Implicit).md",
+                "file": "Flutter/widgets/위젯을 버튼으로 만들고 싶을 때(Inkwell).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/widgets/애니메이션 넣기(Implicit).md",
+                "file": "Flutter/widgets/위젯을 버튼으로 만들고 싶을 때(Inkwell).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/widgets/애니메이션 넣기(Implicit).md",
+                "file": "Flutter/widgets/위젯을 버튼으로 만들고 싶을 때(Inkwell).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/widgets/애니메이션 넣기(Implicit).md"
+                "file": "Flutter/widgets/위젯을 버튼으로 만들고 싶을 때(Inkwell).md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "76f02cfd7896f80c",
   "lastOpenFiles": [
-    "Flutter/widgets/애니메이션 넣기(Explicit).md",
     "Flutter/widgets/애니메이션 넣기(Implicit).md",
+    "Flutter/widgets/애니메이션 넣기(Explicit).md",
     "Flutter/일반/enum을 iterable로 만들기.md",
     "Flutter/widgets/ListView 항목 한번에 만들때.md",
     "Flutter/widgets/Form 관리.md",

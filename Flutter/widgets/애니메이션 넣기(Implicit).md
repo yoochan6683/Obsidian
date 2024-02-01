@@ -23,4 +23,5 @@ icon: AnimatedSwitcher(
 - **`AnimatedSwitcher`** 의 `child`에 위젯이 `transitionBuilder`의 `child`로 넘어와 `ScaleTransition`의 `child`로 넘어오는 다소 복잡한 구조를 띄고 있다.
 - <mark>중요!</mark> `key` 값을 설정하지 않으면 `AnimatedSwitcher` 입장에서 `Icon` 인채로 변하지 않은 것으로 판단하기 때문에 다른 `key` 값을 부여해야 한다. 
 <br>
+
 [플러터 Implicit Widget](https://docs.flutter.dev/ui/animations/implicit-animations)
