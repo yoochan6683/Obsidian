@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "34a3c14be64a27cf",
+        "id": "a3fc04efe68d4dff",
         "type": "tabs",
         "children": [
           {
-            "id": "ae075b63fbe0fa26",
+            "id": "32867c288d5afc7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
+                "file": "Flutter/Authentication/Firebase/(Firebase) 이메일 유저 생성,로그인 하기.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 323.5
   },
   "right": {
     "id": "2dfb36f0824a42bc",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Flutter/Authentication/Firebase/(Firebase) 이메일 유저 생성,로그인 하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Flutter/Authentication/Firebase/(Firebase) 이메일 유저 생성,로그인 하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Flutter/Authentication/Firebase/(Firebase) 이메일 유저 생성,로그인 하기.md"
               }
             }
+          },
+          {
+            "id": "3233fe5930ab3799",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,12 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae075b63fbe0fa26",
+  "active": "32867c288d5afc7d",
   "lastOpenFiles": [
-    "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
-    "conflict-files-obsidian-git.md",
-    "Flutter/Authentication/Firebase/Firebase Storage 이용하기.md",
+    "images/Pasted image 20240108170138.png",
     "Flutter/Authentication/Firebase/(Firebase) 이메일 유저 생성,로그인 하기.md",
+    "Flutter/Authentication/Firebase/Firebase Storage 이용하기.md",
+    "conflict-files-obsidian-git.md",
+    "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
     "Flutter/https(Firebase RealTimeDatabase)/사용준비.md",
     "Flutter/https(Firebase RealTimeDatabase)/Get.md",
     "Flutter/https(Firebase RealTimeDatabase)/Delete.md",
@@ -178,7 +187,6 @@
     "Flutter/일반/리스트에 key를 포함시켜야 하는 경우.md",
     "Flutter/일반/배열 선언 final로? const로?.md",
     "Flutter/일반/enum을 iterable로 만들기.md",
-    "Flutter/일반/asset 이미지 넣기.md",
     "images/Pasted image 20240122211633.png",
     "images/Pasted image 20240122211409.png",
     "images/Pasted image 20240122211228.png",
