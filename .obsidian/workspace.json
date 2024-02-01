@@ -156,8 +156,9 @@
   },
   "active": "76f02cfd7896f80c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
     "Flutter/Authentication/Firebase/(Firebase) 이메일 유저 생성,로그인 하기.md",
+    "conflict-files-obsidian-git.md",
     "images/Pasted.md",
     "images/Pasted image 20240108170138.png",
     "Flutter/Authentication/Firebase/Firebase Storage 이용하기.md",
@@ -165,7 +166,6 @@
     "Flutter/https(Firebase RealTimeDatabase)/사용준비.md",
     "Flutter/https(Firebase RealTimeDatabase)/Get.md",
     "Flutter/https(Firebase RealTimeDatabase)/Delete.md",
-    "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
     "images/Pasted image 20240129210058.png",
     "Flutter/기기 네이티브 기능/sqflite CRUD.md",
     "Flutter/https(Firebase RealTimeDatabase)/Post.md",

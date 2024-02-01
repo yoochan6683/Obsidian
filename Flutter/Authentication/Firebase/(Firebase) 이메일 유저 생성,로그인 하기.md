@@ -5,14 +5,11 @@
 
 ### 라이브러리 설치 후
 설명을 따라 설치하고 나면 2가지 변화가 생기게 된다.
-<<<<<<< HEAD
-- firebase_options.dart 파일 생성<br>
-![이미지](/images/Pasted%20image%2020240128220156.png)<br>
-=======
-- firebase_options.dart 파일 생성
-![이미지](/images/Pasted%20image%2020240128220156.png)
 
->>>>>>> origin/main
+- firebase_options.dart 파일 생성
+<br>![이미지](/images/Pasted%20image%2020240128220156.png)<br>
+
+
 - main.dart에 코드 추가
 ```dart
 void main() async {
@@ -58,4 +55,5 @@ await _firebase.signInWithEmailAndPassword(
 FirebaseAuth.instance.signOut();
 ```
 - 필요한 곳에다가 이 함수를 호출하기만 하면 된다. 로그인/로그아웃 상태에 따라 화면을 다르게 처리하는 것은 StreamBuilder 위젯을 통해 가능하다.
-[[로그인 상태에 따라 화면전환하기(StreamBuilder)]]
+[로그인 상태에 따라 화면전환하기(StreamBuilder)](/Flutter/widgets/로그인%20상태에%20따라%20화면전환하기(StreamBuilder))
+
