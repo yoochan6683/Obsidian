@@ -6,7 +6,7 @@
 ### 라이브러리 설치 후
 설명을 따라 설치하고 나면 2가지 변화가 생기게 된다.
 - firebase_options.dart 파일 생성
-![이미지](images/Pasted\image\20240128220156.png)
+![이미지](images/Pasted%20image%2020240128220156.png)
 
 - main.dart에 코드 추가
 ```dart
