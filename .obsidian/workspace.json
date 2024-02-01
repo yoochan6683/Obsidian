@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Authentication/Firebase/(Firebase) 이메일 유저 생성,로그인 하기.md",
+                "file": "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Authentication/Firebase/(Firebase) 이메일 유저 생성,로그인 하기.md",
+                "file": "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Authentication/Firebase/(Firebase) 이메일 유저 생성,로그인 하기.md",
+                "file": "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Authentication/Firebase/(Firebase) 이메일 유저 생성,로그인 하기.md"
+                "file": "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "76f02cfd7896f80c",
   "lastOpenFiles": [
-    "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
     "Flutter/Authentication/Firebase/(Firebase) 이메일 유저 생성,로그인 하기.md",
+    "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder.md).md",
+    "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
     "conflict-files-obsidian-git.md",
     "images/Pasted.md",
     "images/Pasted image 20240108170138.png",
@@ -187,7 +188,6 @@
     "Flutter/widgets/애니메이션 넣기(Implicit).md",
     "Flutter/일반/리스트에 key를 포함시켜야 하는 경우.md",
     "Flutter/일반/배열 선언 final로? const로?.md",
-    "Flutter/일반/enum을 iterable로 만들기.md",
     "images/Pasted image 20240122211633.png",
     "images/Pasted image 20240122211409.png",
     "images/Pasted image 20240122211228.png",

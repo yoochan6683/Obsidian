@@ -55,5 +55,5 @@ await _firebase.signInWithEmailAndPassword(
 FirebaseAuth.instance.signOut();
 ```
 - 필요한 곳에다가 이 함수를 호출하기만 하면 된다. 로그인/로그아웃 상태에 따라 화면을 다르게 처리하는 것은 StreamBuilder 위젯을 통해 가능하다.
-[로그인 상태에 따라 화면전환하기(StreamBuilder)](/Flutter/widgets/로그인%20상태에%20따라%20화면전환하기(StreamBuilder))
+[로그인 상태에 따라 화면전환하기(StreamBuilder)](/Flutter/widgets/로그인%20상태에%20따라%20화면전환하기(StreamBuilder).md)
 
