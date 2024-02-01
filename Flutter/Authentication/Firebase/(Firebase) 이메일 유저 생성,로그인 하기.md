@@ -44,7 +44,7 @@ await _firebase.signInWithEmailAndPassword(
 - 마찬가지 방법으로 `signInWithEmailAndPassword()`함수를 호출하고 `_enteredEmail`과 `_enteredPassword`를 넘겨주면 된다.
 <br>
 
-![[Pasted image 20240129210058.png]]
+![](/images/Pasted%20image%2020240129210058.png)<br>
 이곳에서 가입한 유저 정보를 확인할 수 있다.
 <br>
 ### 로그아웃하기
