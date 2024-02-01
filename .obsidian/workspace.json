@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a0ea251ba7bd8179",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Authentication/Firebase/(Firebase) 이메일 유저 생성,로그인 하기.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Authentication/Firebase/(Firebase) 이메일 유저 생성,로그인 하기.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Authentication/Firebase/(Firebase) 이메일 유저 생성,로그인 하기.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -154,13 +167,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76f02cfd7896f80c",
+  "active": "a0ea251ba7bd8179",
   "lastOpenFiles": [
-    "images/Pasted.md",
     "Flutter/Authentication/Firebase/(Firebase) 이메일 유저 생성,로그인 하기.md",
+    "conflict-files-obsidian-git.md",
+    "images/Pasted.md",
     "images/Pasted image 20240108170138.png",
     "Flutter/Authentication/Firebase/Firebase Storage 이용하기.md",
-    "conflict-files-obsidian-git.md",
     "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
     "Flutter/https(Firebase RealTimeDatabase)/사용준비.md",
     "Flutter/https(Firebase RealTimeDatabase)/Get.md",
