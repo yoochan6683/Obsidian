@@ -1,4 +1,4 @@
-[[사용준비]]
+[사용준비](/Flutter/https(Firebase%20RealTimeDatabase)/사용준비.md)
 
 ```dart
 void _loadItems() async {
@@ -24,4 +24,4 @@ flutter: {
 <br>
 
 - 이때 `Map<String, dynamic>`으로 변환되기 때문에, 이걸로 리스트를 만들려면 Map을 for 문 안에 넣어서 만들면 된다.
-	[[enum을 iterable로 만들기|Map 데이터 for문 안에 넣기]]
+	[Map 데이터 for문 안에 넣기](/Flutter/일반/enum을.md)
