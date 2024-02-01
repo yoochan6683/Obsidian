@@ -40,8 +40,9 @@ android {
 <string>This app needs access to location when in the background.</string>
 ```
 `iOS/Runner`의 `Info.plist`파일에 추가하면 된다
-![[Pasted image 20240122143204.png]]
+![](/images/Pasted%20image%2020240122143204.png)
 <br>
+
 ```dart
 <key>NSLocationTemporaryUsageDescriptionDictionary</key>
 <dict>
@@ -52,7 +53,9 @@ android {
 iOS에서도 마찬가지로 백그라운드 권한 설정을 하려면 위코드를 추가하면 되는데, 정확한 추가 방법은 아래 링크에서 확인할 수 있다.(이해 못함)
 [geolocator 다트 패키지](https://pub.dev/packages/geolocator)
 <br>
+
 <br>
+
 ### geolocator
 ```dart
 import 'package:geolocator/geolocator.dart';
@@ -86,12 +89,14 @@ Future<Position> determinePosition() async {
 ```
 이제 패키지 설명에 나와 있는 코드를 들고 와서 쓰면 된다. 위치를 받기 위한 권한을 처리하는 과정이 담겨 있다. 반환 값으로는 `Future<Position>`이 반환된다.
 <br>
+
 `Position`이란 객체는 위도, 경도부터 고도, 정확도, 속도 등등 다양한 속성을 갖고 있는 객체이다.
-![[Pasted image 20240122150817.png]]
+![](/images/Pasted%20image%2020240122150817.png)
 <br>
+
 여기서 내가 필요한 위도, 경도 값만 뽑아서 쓸 수 있다.
-![[Pasted image 20240122150632.png]]
+![](/images/Pasted%20image%2020240122150632.png)
 <br>
 
 참고로 위도 경도는 `double`타입이다.
-![[Pasted image 20240122150953.png]]
+![](/images/Pasted%20image%2020240122150953.png)

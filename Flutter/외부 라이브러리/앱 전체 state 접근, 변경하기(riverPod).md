@@ -58,7 +58,10 @@ final favoriteProvider = StateNotifierProvider<FavoriteNotifier, Map<Filter, boo
 	별도의 `FavoriteNotifier` 클래스를 만들어 초기값, 데이터를 변경할 때 쓸 로직들을 저장한 후 `StateNotifier`를 통해 `favoriteProvider`에 넣어준다.
 - 상태를 읽어오고 변경할 로직까지 저장할 수 있어서 주로 쓰는 방법이다.
 <br>
+
 <br>
+
+
 ## 위젯에서 사용하기
 
 Stateless, Statefull 위젯에 따라서 사용 방식이 다르다.
@@ -99,16 +102,8 @@ class _someWidgetState extends ConsumerState<someWidget> {
 ```
 - 얘도 마찬가지로 **ConsumerStateWidget**으로 바꿔주고 **ref.watch()** 를 통해서 접근하면 된다. 특이한 점은 별도로 **WidgetRef** 가 필요하진 않다.
 <br>
+
 ```dart
 ref.read(favoriteProvider.notifier).setFilters({/*...*/});
 ```
 - 아까 지정해놨던 데이터 변경용 함수를 쓰고 싶으면 notifier를 호출한 후 미리 정의된 함수 `setFilters`를 사용하면 된다.
-
-<br>
-
-## 여러 Provider 연결
-```dart
-final filterProvider = Provider((ref) => {
-	
-})
-```
