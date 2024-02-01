@@ -38,4 +38,4 @@ body: PopScope(
 ```
 **Navigator.pop()** 으로 데이터를 전달하는게 아니라 앱 전역 state를 사용하면 유저가 <mark>실제로</mark> 뒤로 갔을 때 데이터를 변경할 수 있다.
 
-[[앱 전체 state 접근, 변경하기(riverPod)|앱 전체 State 사용하기]]
+[앱 전체 state 접근, 변경하기(riverPod)](/Flutter/외부%20라이브러리/앱%20전체%20state%20접근,%20변경하기(riverPod).md)

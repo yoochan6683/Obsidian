@@ -1,6 +1,6 @@
 ### 애니메이션 종류
 애니메이션에는 Explicit, Implicit 두가지의 애니메이션이 있다. Explicit은 처음부터 끝까지 세세하게 내가 설정하는 애니메이션이고, Implicit은 만들어진 애니메이션을 쓰는거라고 보면 된다.
-[[애니메이션 넣기(Implicit)|Implicit 애니메이션 넣는법]] 
+[Implicit 애니메이션 넣는법](/Flutter/widgets/애니메이션%20넣기(Implicit).md)
 <br>
 
 ### 사용

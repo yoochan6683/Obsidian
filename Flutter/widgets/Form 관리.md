@@ -71,13 +71,15 @@ DropdownButtonFormField(
 ),
 ```
 - `enum`을 활용한 카테고리를 드롭다운 버튼으로 구성하는 코드이다.  Map<Categories, Category>(하나는 enum, 하나는 title과 color로 이루어진 Category 객체)는 iterable이 아니기 때문에 for in 구문을 쓸 수 없지만, .entries를 사용하면 가능하다
-	[[enum을 iterable로 만들기]]
+	[enum을 iterable로 만들기](/Flutter/일반/배열%20선언%20final%20vs%20const.md)
 <br>
+
 - `value:`속성은 사용자가 버튼 하나를 골랐을 때 반환할 데이터를 정의하는 것으로, 여기선 `title`과 `color`를 들고 있는 `Category`(Map에서 값에 해당)를 반환하게끔 작성했다.
 <br>
+
 - `onChanged:`속성은 사용자가 드롭다운 버튼을 조작해 변화가 생겼을 때 실행되는 함수이다. 지금은 현재 선택된 `Category`객체를 저장하는 지역변수 `_selectedCategory`에 선택된 `value`를 저장하는 코드가 작성되었다.
 <br>
-<br>
+
 ## 전체 Form 데이터 저장 & 다른 페이지로 전송하기
 ```dart
 class _NewItemState extends State<NewItem> {
@@ -129,8 +131,8 @@ DropdownButtonFormField(
 ```
 - 각 `FormField`는 어떤 버튼으로 인해서 `_formKey.currentState!.save()`함수가 호출되었을 때 호출되는 `onSaved:` 속성을 가지고 있다. 사용자의 입력값이 시시각각 변하기 때문에 그때마다 지역변수에 저장하는 것이 아니라 사용자가 다 작성하고 제출 버튼을 눌렀을 때 `_formKey.currentState!.save()`를 호출하고 이 함수가 호출되었을 때 비로소 지역변수에 입력값을 저장하는 것이다.
 <br>
+
 - 드롭다운 버튼의 경우 사용자의 입력이 계속 변하는 것이 아니기 때문에(정해진 항목에서 고르니까) 다른 항목을 고를 때마다 지역변수에 저장한다. (`onChanged:` 속성)
-<br>
 <br>
 
 이제 제출 버튼을 만들어 `_formKey.currentState!.save()`를 호출해보자
@@ -178,8 +180,9 @@ class _NewItemState extends State<NewItem> {
 ```
 - 앞서 각 `FormField`에 `validator:`속성을 이용해 유효성 조건을 설정해 놓았던 것이 여기에서 쓰인다. `_formKey.currentState!.validate()`함수는 모든 유효성 조건을 검사하고 만약 하나라도 유효성 조건을 만족하지 못하면 `false`를 반환한다. 이때 에러 메세지는 앞서 설명한 것처럼 각 `FormField`에서 설정한 에러 메세지가 실행된다.
 <br>
+
 - 모든 필드에서 유효성 조건을 만족하면 `_formKey.currentState!.save()`가 실행된다. 이때 각 `FormField`의 `onSaved:` 에 설정한 함수가 실행되면서 지역변수에 입력값이 저장되는 것이다. 
 <br>
 
 - 이후 `Navigator.of(context).pop()`을 통해 앞의 페이지로 `.pop()`안의 데이터를 넘겨준다.
-[[화면 이동시 데이터 전달(PopScreen)|Navigator를 통한 페이지 간 데이터 전달]]
+[Navigator를 통한 페이지 간 데이터 전달](/Flutter/widgets/화면%20이동시%20데이터%20전달(PopScreen).md)

@@ -24,4 +24,4 @@ flutter: {
 <br>
 
 - 이때 `Map<String, dynamic>`으로 변환되기 때문에, 이걸로 리스트를 만들려면 Map을 for 문 안에 넣어서 만들면 된다.
-	[Map 데이터 for문 안에 넣기](/Flutter/일반/enum을.md)
+	[Map 데이터 for문 안에 넣기](/Flutter/일반/enum을%20iterable로%20만들기.md)
