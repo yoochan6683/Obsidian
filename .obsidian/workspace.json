@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/widgets/위젯을 버튼으로 만들고 싶을 때(Inkwell).md",
+                "file": "aduino/examples/while (Serial.available() == 0).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/widgets/위젯을 버튼으로 만들고 싶을 때(Inkwell).md",
+                "file": "aduino/examples/while (Serial.available() == 0).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/widgets/위젯을 버튼으로 만들고 싶을 때(Inkwell).md",
+                "file": "aduino/examples/while (Serial.available() == 0).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/widgets/위젯을 버튼으로 만들고 싶을 때(Inkwell).md"
+                "file": "aduino/examples/while (Serial.available() == 0).md"
               }
             }
           },
@@ -157,6 +157,12 @@
   },
   "active": "76f02cfd7896f80c",
   "lastOpenFiles": [
+    "aduino/functions/Serial.available().md",
+    "aduino/examples/while (Serial.available() == 0).md",
+    "aduino/functions",
+    "aduino/examples/pattern << 1 l 0x01.md",
+    "aduino/examples/while (Serial.available() == 0.md",
+    "Flutter/widgets/위젯을 버튼으로 만들고 싶을 때(Inkwell).md",
     "Flutter/widgets/애니메이션 넣기(Implicit).md",
     "Flutter/widgets/애니메이션 넣기(Explicit).md",
     "Flutter/일반/enum을 iterable로 만들기.md",
@@ -165,7 +171,6 @@
     "Flutter/widgets/화면 이동시 데이터 전달(PopScreen).md",
     "Flutter/일반/배열 선언 final vs const.md",
     "Flutter/외부 라이브러리/앱 전체 state 접근, 변경하기(riverPod).md",
-    "Flutter/widgets/위젯을 버튼으로 만들고 싶을 때(Inkwell).md",
     "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
     "Flutter/https(Firebase RealTimeDatabase)/Post.md",
     "Flutter/https(Firebase RealTimeDatabase)/Get.md",
@@ -180,11 +185,6 @@
     "Flutter/Authentication/Firebase/(Firebase) 이메일 유저 생성,로그인 하기.md",
     "Flutter/api/Reverse Geocoding(위도, 경도로 주소 받아오기).md",
     "Flutter/일반/세로 화면 고정.md",
-    "Flutter/일반/배열 복사할 때.md",
-    "Flutter/일반/배열 선언 final로%3F const로%3F.md",
-    "Flutter/일반/배열+선언+final로?+const로?.md",
-    "Flutter/일반/배열 선언 \"final\"로? \"const\"로?.md",
-    "Flutter/api/geolocator 현재 위치 가져오기.md",
     "images/Pasted image 20240108170138.png",
     "images/Pasted image 20240129210058.png",
     "images/Pasted image 20240128220156.png",
@@ -203,7 +203,6 @@
     "images/Pasted image 20240122150817.png",
     "images/Pasted image 20240122150632.png",
     "images",
-    "Flutter/api",
     "무제 파일.canvas"
   ]
 }
