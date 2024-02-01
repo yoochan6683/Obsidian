@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
-                "mode": "preview",
+                "file": "Flutter/기기 네이티브 기능/카메라로 찍은 이미지 사용하기.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
+                "file": "Flutter/기기 네이티브 기능/카메라로 찍은 이미지 사용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
+                "file": "Flutter/기기 네이티브 기능/카메라로 찍은 이미지 사용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md"
+                "file": "Flutter/기기 네이티브 기능/카메라로 찍은 이미지 사용하기.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "76f02cfd7896f80c",
   "lastOpenFiles": [
-    "Flutter/기기 네이티브 기능/sqflite CRUD.md",
     "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
+    "Flutter/기기 네이티브 기능/sqflite CRUD.md",
     "Flutter/외부 라이브러리/sqflite CRUD.md",
     "Flutter/외부 라이브러리/앱 전체 state 접근, 변경하기(riverPod).md",
     "C/EOF.md",
