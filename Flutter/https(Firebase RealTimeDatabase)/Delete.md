@@ -1,4 +1,4 @@
-[[사용준비]]
+[사용준비](/Flutter/https(Firebase%20RealTimeDatabse)/사용준비.md)
 ```dart
 void _deleteItem(GroceryItem item) async {
 	final url = Uri.https('text-da726-default-rtdb.firebaseio.com', 'shopping-list/${item.id}.json');

@@ -18,6 +18,7 @@ await storageRef.putFile(_selectedImage!);
 ```
 - `FirebaseAuth`때와 유사하게 `FirebaseStorage.instance`로 필요한 함수를 호출할 수 있다.`ref()`를 통해 저장공간에 접근할 수 있고, `child()`를 통해 파일을 생성하고 내부에 접근할 수 있다.
 <br>
+
 - 이후 그 공간에 `putFile()`을 통해 `File _selectedImage`를 저장한다.
 <br>
 
@@ -27,6 +28,7 @@ final userCredentials = FirebaseAuth.instance.createUserWithEmailAndPassword(ema
 ```
 - `userCredentials.user`는 유저에 대한 정보에 접근할 수 있는 함수이다. 
 <br>
+
 #### Storage에 저장된 이미지 가져오기
 ```dart
 final imageUrl = await storageRef.getDownloadURL();
