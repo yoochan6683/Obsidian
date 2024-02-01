@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "ae075b63fbe0fa26",
   "lastOpenFiles": [
+    "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
+    "conflict-files-obsidian-git.md",
     "Flutter/Authentication/Firebase/Firebase Storage 이용하기.md",
     "Flutter/Authentication/Firebase/(Firebase) 이메일 유저 생성,로그인 하기.md",
     "Flutter/https(Firebase RealTimeDatabase)/사용준비.md",
@@ -163,7 +165,6 @@
     "Flutter/Authentication/Firebase",
     "Flutter/Authentication",
     "Flutter/기기 네이티브 기능/카메라로 찍은 이미지 사용하기.md",
-    "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
     "Untitled.canvas",
     "Flutter/외부 라이브러리/앱 전체 state 접근, 변경하기(riverPod).md",
     "Flutter/외부 라이브러리/Google Font 사용하기.md",
@@ -183,7 +184,6 @@
     "images/Pasted image 20240122211228.png",
     "images/Pasted image 20240122193453.png",
     "Flutter/일반",
-    "Flutter/일반/세로 화면 고정.md",
     "Flutter/외부 라이브러리",
     "Flutter/widgets",
     "Flutter/기기 네이티브 기능",
