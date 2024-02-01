@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Authentication/Firebase/Firebase Storage 이용하기.md",
+                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Authentication/Firebase/Firebase Storage 이용하기.md",
+                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Authentication/Firebase/Firebase Storage 이용하기.md",
+                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Authentication/Firebase/Firebase Storage 이용하기.md"
+                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md"
               }
             }
           }
@@ -146,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dedad8eca3d99aab",
+  "active": "ae075b63fbe0fa26",
   "lastOpenFiles": [
-    "Flutter/Authentication/Firebase/(Firebase) 이메일 유저 생성,로그인 하기.md",
     "Flutter/Authentication/Firebase/Firebase Storage 이용하기.md",
+    "Flutter/Authentication/Firebase/(Firebase) 이메일 유저 생성,로그인 하기.md",
     "Flutter/https(Firebase RealTimeDatabase)/사용준비.md",
     "Flutter/https(Firebase RealTimeDatabase)/Get.md",
     "Flutter/https(Firebase RealTimeDatabase)/Delete.md",
     "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
-    "Pasted image 20240129210058.png",
+    "images/Pasted image 20240129210058.png",
     "Flutter/기기 네이티브 기능/sqflite CRUD.md",
     "Flutter/https(Firebase RealTimeDatabase)/Post.md",
     "images/Pasted image 20240128220156.png",
