@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aduino/examples/while (Serial.available() == 0).md",
+                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aduino/examples/while (Serial.available() == 0).md",
+                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aduino/examples/while (Serial.available() == 0).md",
+                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aduino/examples/while (Serial.available() == 0).md"
+                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md"
               }
             }
           },
@@ -156,9 +156,12 @@
   },
   "active": "76f02cfd7896f80c",
   "lastOpenFiles": [
+    "C/EOF.md",
+    "C/체스 색깔 최소 변경 알고리즘.md",
+    "C/나머지 개수 세기.md",
     "aduino/functions/Serial.available().md",
-    "aduino/examples/while (Serial.available() == 0).md",
     "aduino/examples/pattern << 1 l 0x01.md",
+    "aduino/examples/while (Serial.available() == 0).md",
     "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
     "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
     "Flutter/Authentication/Firebase/(Firebase) 이메일 유저 생성,로그인 하기.md",
@@ -185,9 +188,6 @@
     "Flutter/widgets/위젯을 버튼으로 만들고 싶을 때(Inkwell).md",
     "Flutter/api/Reverse Geocoding(위도, 경도로 주소 받아오기).md",
     "Flutter/api/geolocator 현재 위치 가져오기.md",
-    "Flutter/widgets/ListView 항목 한번에 만들때.md",
-    "Flutter/widgets/애니메이션 넣기(Explicit).md",
-    "Flutter/widgets/화면 이동시 데이터 전달(PopScreen).md",
     "images/Pasted image 20240122211633.png",
     "images/Pasted image 20240122211409.png",
     "images/Pasted image 20240122211228.png",
