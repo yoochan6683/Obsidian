@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
+                "file": "aduino/examples/while (Serial.available() == 0).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
+                "file": "aduino/examples/while (Serial.available() == 0).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
+                "file": "aduino/examples/while (Serial.available() == 0).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md"
+                "file": "aduino/examples/while (Serial.available() == 0).md"
               }
             }
           },
@@ -156,14 +156,17 @@
   },
   "active": "76f02cfd7896f80c",
   "lastOpenFiles": [
+    "aduino/functions/Serial.available().md",
+    "aduino/examples/while (Serial.available() == 0).md",
+    "aduino/examples/pattern << 1 l 0x01.md",
+    "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
+    "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
     "Flutter/Authentication/Firebase/(Firebase) 이메일 유저 생성,로그인 하기.md",
     "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder.md).md",
-    "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
     "conflict-files-obsidian-git.md",
     "images/Pasted.md",
     "images/Pasted image 20240108170138.png",
     "Flutter/Authentication/Firebase/Firebase Storage 이용하기.md",
-    "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
     "Flutter/https(Firebase RealTimeDatabase)/사용준비.md",
     "Flutter/https(Firebase RealTimeDatabase)/Get.md",
     "Flutter/https(Firebase RealTimeDatabase)/Delete.md",
@@ -185,9 +188,6 @@
     "Flutter/widgets/ListView 항목 한번에 만들때.md",
     "Flutter/widgets/애니메이션 넣기(Explicit).md",
     "Flutter/widgets/화면 이동시 데이터 전달(PopScreen).md",
-    "Flutter/widgets/애니메이션 넣기(Implicit).md",
-    "Flutter/일반/리스트에 key를 포함시켜야 하는 경우.md",
-    "Flutter/일반/배열 선언 final로? const로?.md",
     "images/Pasted image 20240122211633.png",
     "images/Pasted image 20240122211409.png",
     "images/Pasted image 20240122211228.png",
