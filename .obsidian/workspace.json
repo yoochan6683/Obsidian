@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/나머지 개수 세기.md",
+                "file": "Flutter/Authentication/Firebase/Firebase Firestore 사용하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/나머지 개수 세기.md",
+                "file": "Flutter/Authentication/Firebase/Firebase Firestore 사용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/나머지 개수 세기.md",
+                "file": "Flutter/Authentication/Firebase/Firebase Firestore 사용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/나머지 개수 세기.md"
+                "file": "Flutter/Authentication/Firebase/Firebase Firestore 사용하기.md"
               }
             }
           },
@@ -157,6 +157,11 @@
   },
   "active": "76f02cfd7896f80c",
   "lastOpenFiles": [
+    "Flutter/Authentication/Firebase/Firebase Storage 사용하기.md",
+    "Flutter/Authentication/Firebase/Firebase Firestore 사용하기.md",
+    "C/EOF.md",
+    "C/체스 색깔 최소 변경 알고리즘.md",
+    "C/나머지 개수 세기.md",
     "aduino/examples/while (Serial.available() == 0).md",
     "aduino/functions/Serial.available().md",
     "aduino/functions",
@@ -181,10 +186,6 @@
     "Flutter/https(Firebase.md",
     "Flutter/https(Firebase RealTimeDatabse)/사용준비.md",
     "Flutter/https(Firebase RealTimeDatabse)",
-    "Flutter/Authentication/Firebase/Firebase Storage 이용하기.md",
-    "Flutter/Authentication/Firebase/(Firebase) 이메일 유저 생성,로그인 하기.md",
-    "Flutter/api/Reverse Geocoding(위도, 경도로 주소 받아오기).md",
-    "Flutter/일반/세로 화면 고정.md",
     "images/Pasted image 20240108170138.png",
     "images/Pasted image 20240129210058.png",
     "images/Pasted image 20240128220156.png",
