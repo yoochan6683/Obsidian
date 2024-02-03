@@ -6,6 +6,7 @@ flutter pub add cloud_firestore
 ### 데이터 구조
 
 firestore는 `collection`과 `document`로 이루어져 있다. `document`에 데이터가 담겨 있고, `collection`은 그러한 `document`들로 이루어져 있다.
+- `document`안에 또 다른 `collection`을 넣을 수도 있다.
 <br>
 ```dart
 import 'package:cloud_firestore/cloud_firestore.dart';
@@ -19,3 +20,4 @@ await FirebaseFirestore.instance
 	'imageUrl': imageUrl,
 });
 ```
+- `collection`을 
