@@ -20,4 +20,4 @@ await FirebaseFirestore.instance
 	'imageUrl': imageUrl,
 });
 ```
-- `collection`을 
+- `collection`을 만들고 그 안에 `document`를 
