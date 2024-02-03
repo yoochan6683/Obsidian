@@ -50,8 +50,8 @@ StreamBuilder(
 
 		return ListView.builder(
 			itemCount: loadedUser.length,
-			itemBuilder: (ctx, index) => Text(loadeUser[index])
+			itemBuilder: (ctx, index) => Text(loadeUser[index].data()['text']));
 	}
 ),
 ```
-- Firebase에서 제공하는 `snapshots()`함수를 이용하면 
+- Firebase에서 제공하는 `snapshots()`함수를 이용하면 해당 경로의 실시간 반영 데이터를 받아올 수 있다. 
