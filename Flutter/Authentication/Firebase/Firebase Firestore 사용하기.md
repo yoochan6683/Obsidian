@@ -26,5 +26,5 @@ await FirebaseFirestore.instance
 <br>
 ### 데이터 읽어오기
 ```dart
-
+final userRef = FirebaseFirestore.instance.collection('users')
 ```
