@@ -49,7 +49,8 @@ StreamBuilder(
 		final loadedUser = snapshot.data!.docs;
 
 		return ListView.builder(
-			itemCount: loadedUser.length, //...
+			itemCount: loadedUser.length,
+			itemBuilder: (ctx, index) => Text(loadeUser[index].)
 	}
 ),
 ```
