@@ -24,6 +24,7 @@ await FirebaseFirestore.instance
 ```
 - `collection`을 만들고 그 안에 데이터를 넣을 `document`를 만든다. 데이터는 `.set()`함수 안에 **`Map`** 형태의 데이터를 넣어주면 된다. 
 <br>
+
 ### 데이터 읽어오기
 ```dart
 final userRef = FirebaseFirestore.instance.collection('users').doc(userCredentials.user!.uid);
