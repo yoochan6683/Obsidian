@@ -34,3 +34,9 @@ userRef.get().then((DocumentSnapshot doc) {
 })
 ```
 - 일회성으로 한번 가져오는 경우 `.get()`을 통해 접근하고 비동기 처리를 해준 후 `.data()`를 통해 받아올 수 있다. 
+<br>
+### 데이터 실시간으로 불러오기
+`StreamBuilder`를 이용해 데이터가 바뀔 때마다 실시간으로 불러올 수 있다. 
+```dart
+
+```
