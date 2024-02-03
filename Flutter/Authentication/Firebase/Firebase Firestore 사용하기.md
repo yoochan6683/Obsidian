@@ -26,5 +26,11 @@ await FirebaseFirestore.instance
 <br>
 ### 데이터 읽어오기
 ```dart
-final userRef = FirebaseFirestore.instance.collection('users')
+final userRef = FirebaseFirestore.instance.collection('users').doc(userCredentials.user!.uid);
+
+userRef.get().then((DocumentSnapshot doc) {
+	final userData = doc.data() as Map<String, dynamic>;
+	//...
+})
 ```
+- 일회성으로 한번 가져오는 경우 `.get()`을 통해 접근하고 비동기 처리를 해준 후 `.data()`를 통해 받아올 수 있다. 
