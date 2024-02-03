@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Authentication/Firebase/Firebase Firestore 사용하기.md",
+                "file": "Flutter/Firebase/Firebase Firestore 사용하기.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Authentication/Firebase/Firebase Firestore 사용하기.md",
+                "file": "Flutter/Firebase/Firebase Firestore 사용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Authentication/Firebase/Firebase Firestore 사용하기.md",
+                "file": "Flutter/Firebase/Firebase Firestore 사용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Authentication/Firebase/Firebase Firestore 사용하기.md"
+                "file": "Flutter/Firebase/Firebase Firestore 사용하기.md"
               }
             }
           },
@@ -155,11 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76f02cfd7896f80c",
+  "active": "149c58439f82c7b6",
   "lastOpenFiles": [
     "images/Pasted image 20240203030959.png",
-    "Flutter/Authentication/Firebase/Firebase Firestore 사용하기.md",
-    "Flutter/Authentication/Firebase/Firebase Storage 사용하기.md",
+    "Flutter/Firebase/Firebase Firestore 사용하기.md",
+    "Flutter/Firebase/Firebase Storage 사용하기.md",
     "C/EOF.md",
     "C/체스 색깔 최소 변경 알고리즘.md",
     "C/나머지 개수 세기.md",
@@ -178,10 +178,10 @@
     "Flutter/일반/배열 선언 final vs const.md",
     "Flutter/외부 라이브러리/앱 전체 state 접근, 변경하기(riverPod).md",
     "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
-    "Flutter/https(Firebase RealTimeDatabase)/Post.md",
-    "Flutter/https(Firebase RealTimeDatabase)/Get.md",
-    "Flutter/https(Firebase RealTimeDatabase)/Delete.md",
-    "Flutter/https(Firebase RealTimeDatabase)/사용준비.md",
+    "Flutter/Firebase/https(Firebase RealTimeDatabase)/Post.md",
+    "Flutter/Firebase/https(Firebase RealTimeDatabase)/Get.md",
+    "Flutter/Firebase/https(Firebase RealTimeDatabase)/Delete.md",
+    "Flutter/Firebase/https(Firebase RealTimeDatabase)/사용준비.md",
     "Flutter/https(Firebase_RealTimeDatabse)/사용준비.md",
     "Flutter/https(Firebase_RealTimeDatabse)",
     "Flutter/https(Firebase.md",
@@ -189,7 +189,7 @@
     "images/Pasted image 20240108170138.png",
     "images/Pasted image 20240129210058.png",
     "images/Pasted image 20240128220156.png",
-    "Flutter/Authentication/Firebase",
+    "Flutter/Firebase",
     "Flutter/Authentication",
     "Untitled.canvas",
     "images/Pasted image 20240122211633.png",

@@ -1,4 +1,4 @@
-[사용준비](/Flutter/https(Firebase%20RealTimeDatabase)/사용준비.md)
+[사용준비](사용준비.md)
 
 ```dart
 void _loadItems() async {
