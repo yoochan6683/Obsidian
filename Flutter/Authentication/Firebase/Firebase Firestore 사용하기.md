@@ -38,5 +38,5 @@ userRef.get().then((DocumentSnapshot doc) {
 ### 데이터 실시간으로 불러오기
 `StreamBuilder`를 이용해 데이터가 바뀔 때마다 실시간으로 불러올 수 있다. 
 ```dart
-
+StreamBuilder(stream: FirebaseFirestore.instance.collection('user'),builder:),
 ```
