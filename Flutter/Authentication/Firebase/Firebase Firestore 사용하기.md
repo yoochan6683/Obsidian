@@ -50,7 +50,7 @@ StreamBuilder(
 
 		return ListView.builder(
 			itemCount: loadedUser.length,
-			itemBuilder: (ctx, index) => Text(loadeUser[index].)
+			itemBuilder: (ctx, index) => Text(loadeUser[index])
 	}
 ),
 ```
