@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Firebase/Firebase Firestore 사용하기.md",
+                "file": "Flutter/일반/리스트에 key를 포함시켜야 하는 경우.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Firebase/Firebase Firestore 사용하기.md",
+                "file": "Flutter/일반/리스트에 key를 포함시켜야 하는 경우.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Firebase/Firebase Firestore 사용하기.md",
+                "file": "Flutter/일반/리스트에 key를 포함시켜야 하는 경우.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Firebase/Firebase Firestore 사용하기.md"
+                "file": "Flutter/일반/리스트에 key를 포함시켜야 하는 경우.md"
               }
             }
           },
@@ -155,10 +155,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "149c58439f82c7b6",
+  "active": "76f02cfd7896f80c",
   "lastOpenFiles": [
-    "images/Pasted image 20240203030959.png",
+    "Flutter/api/Reverse Geocoding(위도, 경도로 주소 받아오기).md",
+    "Flutter/api/geolocator 현재 위치 가져오기.md",
+    "Flutter/Firebase/(Firebase) 이메일 유저 생성,로그인 하기.md",
     "Flutter/Firebase/Firebase Firestore 사용하기.md",
+    "Flutter/Firebase/https(Firebase RealTimeDatabase)/사용준비.md",
+    "images/Pasted image 20240203030959.png",
     "Flutter/Firebase/Firebase Storage 사용하기.md",
     "C/EOF.md",
     "C/체스 색깔 최소 변경 알고리즘.md",
@@ -181,10 +185,7 @@
     "Flutter/Firebase/https(Firebase RealTimeDatabase)/Post.md",
     "Flutter/Firebase/https(Firebase RealTimeDatabase)/Get.md",
     "Flutter/Firebase/https(Firebase RealTimeDatabase)/Delete.md",
-    "Flutter/Firebase/https(Firebase RealTimeDatabase)/사용준비.md",
-    "Flutter/https(Firebase_RealTimeDatabse)/사용준비.md",
     "Flutter/https(Firebase_RealTimeDatabse)",
-    "Flutter/https(Firebase.md",
     "Flutter/https(Firebase RealTimeDatabse)",
     "images/Pasted image 20240108170138.png",
     "images/Pasted image 20240129210058.png",
