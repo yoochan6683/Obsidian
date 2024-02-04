@@ -45,5 +45,10 @@
 
 **Team ID**(우측 상단)
 ![](images/Pasted%20image%2020240204204655.png)
+<br>
 
-
+### 3. 라이브러리 설치
+```dart
+flutter pub add firebase_messaging
+```
+준비는 이걸로 끝이다.
