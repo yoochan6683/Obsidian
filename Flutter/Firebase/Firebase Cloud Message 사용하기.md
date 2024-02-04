@@ -62,6 +62,8 @@ void setupNotifications() async {
 	await fcm.requestPermission();
 
 	final token = await fcm.getToken();
+	print(token);
+	/*토큰: cOshU1QrSOCvjGINe9LDA6:APA91bG2AE_p1V0xDkTu_bCw47nNCu4twvq73CJCyYXE80bPRzW3Wwv85QMohYrA0URes0YDsE9hWdYSZ2_pu80ksA38iaFLai-cEHXmB7dR2Aq_oMk875yQa2KT-gMXM1fa-3ot-EOr*/
 }
 
 @override
