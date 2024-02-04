@@ -157,6 +157,8 @@
   },
   "active": "76f02cfd7896f80c",
   "lastOpenFiles": [
+    "images/Pasted image 20240204172423.png",
+    "images/Pasted image 20240204172149.png",
     "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
     "Flutter/Firebase/Firebase Cloud Message 사용하기.md",
     "Flutter/Firebase/Firebase Authentication 사용하기.md",
@@ -184,7 +186,6 @@
     "Flutter/widgets/화면 이동시 데이터 전달(PopScreen).md",
     "Flutter/일반/배열 선언 final vs const.md",
     "Flutter/외부 라이브러리/앱 전체 state 접근, 변경하기(riverPod).md",
-    "Flutter/Firebase/https(Firebase RealTimeDatabase)/Post.md",
     "Flutter/https(Firebase_RealTimeDatabse)",
     "Flutter/https(Firebase RealTimeDatabse)",
     "images/Pasted image 20240108170138.png",
@@ -202,7 +203,6 @@
     "Flutter/widgets",
     "Flutter/기기 네이티브 기능",
     "images/Pasted image 20240122150953.png",
-    "images/Pasted image 20240122150817.png",
     "images",
     "무제 파일.canvas"
   ]
