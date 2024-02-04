@@ -73,3 +73,10 @@ void initState() {
 	setupPushNotifications();
 }
 ```
+- `FirebaseMessaging.instance.requestPermission()`을 먼저 처리하고, `.getToken()`을 통해 토큰을 받아올 수 있다.
+<br>
+
+- 토큰은 해당 기기에 고유하게 부여되는 것으로, 이 토큰 정보를 백엔드에 저장해놨다가 알림을 발송할 때 사용한다.
+<br>
+
+- 
