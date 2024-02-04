@@ -56,7 +56,18 @@ flutter pub add firebase_messaging
 
 ### 토큰으로 push 알림 보내기
 ```dart
-void setupNotification() async {
-	final fcmToken = await FirebaseMessaging.instance.getToken();
+void setupNotifications() async {
+	final fcm = FirebaseMessaging.instance;
+
+	await fcm.requestPermission();
+
+	fcm.getToken();
+}
+
+@override
+void initState() {
+	super.initState();
+
+	setupPushNotifications();
 }
 ```
