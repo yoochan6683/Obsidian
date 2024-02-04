@@ -17,3 +17,19 @@
 <br>
 
 ### 2. APN 인증키 업로드
+![](images/Pasted%20image%2020240204191633.png)
+우선 애플 개발자 계정으로 APN 인증키를 발급해야 한다.[apple account 홈페이지](https://developer.apple.com/account)
+여기서 `Certificates, Identifiers & Profiles` -> `Keys`로 들어간다.
+<br>
+
+![](images/Pasted%20image%2020240204192004.png)
+![](images/Pasted%20image%2020240204192037.png)
+플러스 버튼을 누르고 key 이름을 입력한다. 밑에 `Apple Push Notifications service (APNs)`를 체크해준다.
+<br>
+
+![](images/Pasted%20image%2020240204192133.png)
+다운로드를 누르면 APN키가 다운로드 된다. 다운 횟수가 1번으로 제한되어 있으니 지우면 안된다.
+<br>
+이 키를 파이어베이스에 업로드하면 된다. `Firebase` -> `Project settings`로 들어간다.
+![](images/Pasted%20image%2020240204192547.png)
+
