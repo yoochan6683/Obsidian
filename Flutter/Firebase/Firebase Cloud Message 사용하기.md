@@ -32,4 +32,18 @@
 <br>
 이 키를 파이어베이스에 업로드하면 된다. `Firebase` -> `Project settings`로 들어간다.
 ![](images/Pasted%20image%2020240204192547.png)
+<br>
+`cloud messaging`바에 들어간 뒤 `Upload`클릭
+![](images/Pasted%20image%2020240204200812.png)
+<br>
+
+아까 다운로드 받았던 키 파일을 업로드하고, `Key ID`와 `Team ID`를 넣어야 한다. `Key ID`와 `Team ID`는 APN 인증키를 다운 받았던 페이지에서 확인할 수 있다.
+![](images/Pasted%20image%2020240204201137.png)
+<br>
+**Key ID** 
+![](images/Pasted%20image%2020240204204502.png)<br>
+
+**Team ID**(우측 상단)
+![](images/Pasted%20image%2020240204204655.png)
+
 
