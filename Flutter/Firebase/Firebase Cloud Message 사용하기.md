@@ -85,3 +85,18 @@ void initState() {
 ![](images/Pasted%20image%2020240205172437.png)
 - 특정 기기에만 알림을 보내고 싶다면 이 토큰을 백엔드에 저장해놨다가 위와 같은 방법으로 전송할 수 있다.
 
+### 여러 기기로 보내기
+![](images/Pasted%20image%2020240205173307.png)
+`알림` 섹션에서 테스트 메세지를 보내지 않고 `타겟` 섹션으로 넘어오면 주제를 설정할 수 있는데, 예를 들어 `chat` 주제를 설정하고 검토를 누르면 `chat`이라는 주제를 갖고 있는 모든 기기들에 알림을 전송할 수 있다.
+<br>
+
+```dart
+void setupPushNotifications() async {
+	final fcm = FirebaseMessaging.instance;
+	await fcm.requestPermission();
+	
+	//주제 설정
+	fcm.subscribeToTopic('chat');
+
+}
+```
