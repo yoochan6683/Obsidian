@@ -38,13 +38,13 @@
 ![](/images/Pasted%20image%2020240204200812.png)
 <br>
 
-아까 다운로드 받았던 키 파일을 업로드하고, `Key ID`와 `Team ID`를 넣어야 한다. `Key ID`와 `Team ID`는 APN 인증키를 다운 받았던 페이지에서 확인할 수 있다.
+아까 다운로드 받았던 키 파일을 업로드하고, `Key ID`와 `Team ID`를 넣어야 한다. `Key ID`와 `Team ID`는 APN 인증키를 다운 받았던 페이지에서 확인할 수 있다.<br>
 ![](/images/Pasted%20image%2020240204201137.png)
 <br>
-**Key ID** 
+**Key ID** <br>
 ![](/images/Pasted%20image%2020240204204502.png)<br>
 
-**Team ID**(우측 상단)
+**Team ID**(우측 상단) <br>
 ![](/images/Pasted%20image%2020240204204655.png)
 <br>
 
@@ -79,10 +79,10 @@ void initState() {
 
 - 토큰은 해당 기기에 고유하게 부여되는 것으로, 이 토큰 정보를 백엔드에 저장해놨다가 알림을 발송할 때 사용한다.
 <br>
-`Messaging` -> `새 캠패인`버튼을 누르면 알림 제목과 알림 텍스트를 설정할 수 있다.
+`Messaging` -> `새 캠패인`버튼을 누르면 알림 제목과 알림 텍스트를 설정할 수 있다.<br>
 ![](/images/Pasted%20image%2020240205172047.png)<br>
 
-`테스트 메시지 전송`버튼을 누르면 토큰을 추가할 수 있는데, 여기에 토큰을 붙여놓고 `테스트`를 누르면 알림을 전송할 수 있다.
+`테스트 메시지 전송`버튼을 누르면 토큰을 추가할 수 있는데, 여기에 토큰을 붙여놓고 `테스트`를 누르면 알림을 전송할 수 있다.<br>
 ![](/images/Pasted%20image%2020240205172437.png)
 - 특정 기기에만 알림을 보내고 싶다면 이 토큰을 백엔드에 저장해놨다가 위와 같은 방법으로 전송할 수 있다.
 
@@ -108,28 +108,28 @@ void setupPushNotifications() async {
 원한다.
 <br>
 
-- firebase console에 **`Functions`** 추가
+- firebase console에 **`Functions`** 추가<br>
 ![](/images/Pasted%20image%2020240206144432.png)<br>
-- 결제 계좌 추가(요금제에 따라 추가 요금 발생 시 결제할 계좌를 미리 등록해야 함)
+- 결제 계좌 추가(요금제에 따라 추가 요금 발생 시 결제할 계좌를 미리 등록해야 함)<br>
 ![](/images/Pasted%20image%2020240206144615.png)<br>
 
 - **`Node.js`** 설치 [Node.js 다운로드 페이지](https://nodejs.org/en)
-- Firebase tools 설치
+- Firebase tools 설치<br>
 ![](/images/Pasted%20image%2020240206154007.png)<br>
 
-- `firebase init`, `firebase deploy`실행
+- `firebase init`, `firebase deploy`실행<br>
 ![](/images/Pasted%20image%2020240206154356.png)<br>
 
 
-- Functions 선택(방향키로 이동, 스페이스바로 선택)
+- Functions 선택(방향키로 이동, 스페이스바로 선택)<br>
 ![](/images/Pasted%20image%2020240206154136.png)<br>
 
-- 프로젝트 선택
+- 프로젝트 선택<br>
 ![](/images/Pasted%20image%2020240206154455.png)
 ![](images/Pasted%20image%2020240206154516.png)
 <br>
 
-- 부가 설정
+- 부가 설정<br>
 ![](/images/Pasted%20image%2020240206154601.png)
 <br>
 
