@@ -100,3 +100,7 @@ void setupPushNotifications() async {
 
 }
 ```
+<br>
+
+### 자동으로 push 알림 보내기
+어떤 조건을 통해서 여러 기기에 자동으로 알림을 보낼려면 프런트코드만으론 부족하다. 그래서 firebase는 Firestore와 Real Time Database를 연동해 벡엔드 코드를 올리고 실행할 수 있는 Firebase Functions를 지원한다.
