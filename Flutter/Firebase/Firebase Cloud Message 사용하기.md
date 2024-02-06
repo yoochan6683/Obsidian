@@ -113,4 +113,10 @@ void setupPushNotifications() async {
 ![](images/Pasted%20image%2020240206144615.png)<br>
 
 - **`Node.js`** 설치 [Node.js 다운로드 페이지](https://nodejs.org/en)
+- Firebase tools 설치
+![](images/Pasted%20image%2020240206154007.png)<br>
+
+- Functions 선택(방향키로 이동, 스페이스바로 선택)
+![](images/Pasted%20image%2020240206154136.png)<br>
+
 - 
