@@ -116,7 +116,42 @@ void setupPushNotifications() async {
 - Firebase tools 설치
 ![](images/Pasted%20image%2020240206154007.png)<br>
 
+- `firebase init`, `firebase deploy`실행
+![](images/Pasted%20image%2020240206154356.png)<br>
+
+
 - Functions 선택(방향키로 이동, 스페이스바로 선택)
 ![](images/Pasted%20image%2020240206154136.png)<br>
 
-- 
+- 프로젝트 선택
+![](images/Pasted%20image%2020240206154455.png)
+![](images/Pasted%20image%2020240206154516.png)
+<br>
+
+- 부가 설정
+![](images/Pasted%20image%2020240206154601.png)
+<br>
+
+- functions/indes.js 에 코드 설정
+```dart
+const functions = require("firebase-functions");
+const admin = require("firebase-admin");
+
+admin.initializeApp();
+
+// Cloud Firestore triggers ref: https://firebase.google.com/docs/functions/firestore-events
+exports.myFunction = functions.firestore
+	.document("chat/{messageId}")
+	.onCreate((snapshot, context) => {
+	// Return this function's promise, so this ensures the firebase function
+	// will keep running, until the notification is scheduled.
+		return admin.messaging().sendToTopic("chat", {
+			// Sending a notification message.
+			notification: {
+				title: snapshot.data()["username"],
+				body: snapshot.data()["text"],
+				clickAction: "FLUTTER_NOTIFICATION_CLICK",
+			},
+		});
+	});
+```
