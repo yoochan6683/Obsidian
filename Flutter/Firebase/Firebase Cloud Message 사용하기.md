@@ -155,3 +155,4 @@ exports.myFunction = functions.firestore
 		});
 	});
 ```
+firestore의 `doc`에 새로운 채팅이 추가될 때마다 푸시 알림을 보내는 코드이다. 
