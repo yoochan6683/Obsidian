@@ -107,6 +107,9 @@ void setupPushNotifications() async {
 원한다.
 <br>
 
-```dart
+- firebase console에 **`Functions`** 추가
+![](images/Pasted%20image%2020240206144432.png)<br>
+- 결제 계좌 추가(요금제에 따라 추가 요금 발생 시 결제할 계좌를 미리 등록해야 함)
+![](images/Pasted%20image%2020240206144615.png)<br>
 
-```
+- 
