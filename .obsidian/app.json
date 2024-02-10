@@ -2,6 +2,7 @@
   "attachmentFolderPath": "images",
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "newLinkFormat": "relative",
-  "spellcheck": false
+  "newLinkFormat": "absolute",
+  "spellcheck": false,
+  "useMarkdownLinks": true
 }
