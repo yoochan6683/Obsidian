@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Atom",
+  "enabledCssSnippets": [
+    "obsidian"
+  ]
 }
