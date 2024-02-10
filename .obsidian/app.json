@@ -2,5 +2,6 @@
   "attachmentFolderPath": "images",
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "spellcheck": false
 }
