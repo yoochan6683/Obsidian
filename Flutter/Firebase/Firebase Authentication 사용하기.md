@@ -1,8 +1,10 @@
 ### 라이브러리 설치
 [Firebase CLI 설치하기](https://firebase.google.com/docs/flutter/setup?platform=ios)
 파이어베이스를 앱에 설치하기 전에 CLI부터 설치해야 한다.
-<br>
-
+#### firebase_auth 설치
+```dart
+$ flutter pub add firebase_auth
+```
 ### 라이브러리 설치 후
 설명을 따라 설치하고 나면 2가지 변화가 생기게 된다.
 
