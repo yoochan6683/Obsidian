@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -158,6 +158,7 @@
   },
   "active": "efdf01b7ae5d98a8",
   "lastOpenFiles": [
+    "images/Pasted image 20240215225053.png",
     "images/Pasted image 20240215162001.png",
     "images/Pasted image 20240215161506.png",
     "images/Pasted image 20240215161336.png",
@@ -182,7 +183,6 @@
     "images/Pasted image 20240212140042.png",
     "images/Pasted image 20240212135931.png",
     "images/Pasted image 20240212135924.png",
-    "images/Pasted image 20240212135915.png",
     "Flutter/일반/리스트에 key를 포함시켜야 하는 경우.md",
     "Flutter/SNS 로그인",
     "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
