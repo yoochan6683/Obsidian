@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Firebase/Firebase Authentication 사용하기.md",
+                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "right": {
     "id": "2dfb36f0824a42bc",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Firebase/Firebase Authentication 사용하기.md",
+                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Firebase/Firebase Authentication 사용하기.md",
+                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Firebase/Firebase Authentication 사용하기.md"
+                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md"
               }
             }
           },
@@ -158,6 +157,14 @@
   },
   "active": "76f02cfd7896f80c",
   "lastOpenFiles": [
+    "Flutter/기기 네이티브 기능/카메라로 찍은 이미지 사용하기.md",
+    "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
+    "Flutter/외부 라이브러리/앱 전체 state 접근, 변경하기(riverPod).md",
+    "Flutter/widgets/ListView 항목 한번에 만들때.md",
+    "Flutter/widgets/Form 관리.md",
+    "Flutter/Firebase/Firebase Firestore 사용하기.md",
+    "Flutter/Firebase/Firebase Cloud Message 사용하기.md",
+    "Flutter/Firebase/Firebase Authentication 사용하기.md",
     "Flutter/SNS 로그인/카카오톡으로 로그인.md",
     "images/Pasted image 20240212160845.png",
     "images/Pasted image 20240212160652.png",
@@ -171,12 +178,9 @@
     "images/Pasted image 20240211134721.png",
     "Flutter/일반/리스트에 key를 포함시켜야 하는 경우.md",
     "Flutter/SNS 로그인",
-    "Flutter/Firebase/Firebase Cloud Message 사용하기.md",
     "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
-    "Flutter/Firebase/Firebase Authentication 사용하기.md",
     "Flutter/api/Reverse Geocoding(위도, 경도로 주소 받아오기).md",
     "Flutter/api/geolocator 현재 위치 가져오기.md",
-    "Flutter/Firebase/Firebase Firestore 사용하기.md",
     "Flutter/Firebase/https(Firebase RealTimeDatabase)/사용준비.md",
     "Flutter/Firebase/Firebase Storage 사용하기.md",
     "C/EOF.md",
@@ -191,10 +195,6 @@
     "Flutter/widgets/애니메이션 넣기(Implicit).md",
     "Flutter/widgets/애니메이션 넣기(Explicit).md",
     "Flutter/일반/enum을 iterable로 만들기.md",
-    "Flutter/widgets/ListView 항목 한번에 만들때.md",
-    "Flutter/widgets/Form 관리.md",
-    "Flutter/widgets/화면 이동시 데이터 전달(PopScreen).md",
-    "Flutter/일반/배열 선언 final vs const.md",
     "Flutter/https(Firebase_RealTimeDatabse)",
     "Flutter/https(Firebase RealTimeDatabse)",
     "Flutter/Firebase",
