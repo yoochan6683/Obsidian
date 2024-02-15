@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2cf6f3a8df0c6d71",
+        "id": "ac8dd2bfbeb4d2cf",
         "type": "tabs",
         "children": [
           {
-            "id": "76f02cfd7896f80c",
+            "id": "efdf01b7ae5d98a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Android/Android 패키지 이름 수정.md",
-                "mode": "preview",
+                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Android/Android 패키지 이름 수정.md",
+                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Android/Android 패키지 이름 수정.md",
+                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Android/Android 패키지 이름 수정.md"
+                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md"
               }
             }
           },
@@ -156,8 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76f02cfd7896f80c",
+  "active": "efdf01b7ae5d98a8",
   "lastOpenFiles": [
+    "C/EOF.md",
+    "C/나머지 개수 세기.md",
+    "C/체스 색깔 최소 변경 알고리즘.md",
     "Flutter/SNS 로그인/카카오톡으로 로그인.md",
     "Flutter/Android/Android 패키지 이름 수정.md",
     "Flutter/Android",
@@ -186,9 +189,6 @@
     "Flutter/api/geolocator 현재 위치 가져오기.md",
     "Flutter/Firebase/https(Firebase RealTimeDatabase)/사용준비.md",
     "Flutter/Firebase/Firebase Storage 사용하기.md",
-    "C/EOF.md",
-    "C/체스 색깔 최소 변경 알고리즘.md",
-    "C/나머지 개수 세기.md",
     "aduino/examples/while (Serial.available() == 0).md",
     "aduino/functions/Serial.available().md",
     "aduino/functions",
