@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -158,6 +158,7 @@
   },
   "active": "efdf01b7ae5d98a8",
   "lastOpenFiles": [
+    "images/Pasted image 20240215160940.png",
     "C/EOF.md",
     "C/나머지 개수 세기.md",
     "C/체스 색깔 최소 변경 알고리즘.md",
@@ -196,7 +197,6 @@
     "aduino/examples/while (Serial.available() == 0.md",
     "Flutter/widgets/위젯을 버튼으로 만들고 싶을 때(Inkwell).md",
     "Flutter/widgets/애니메이션 넣기(Implicit).md",
-    "Flutter/widgets/애니메이션 넣기(Explicit).md",
     "Flutter/https(Firebase_RealTimeDatabse)",
     "Flutter/https(Firebase RealTimeDatabse)",
     "Flutter/Firebase",
