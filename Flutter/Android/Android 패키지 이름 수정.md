@@ -24,6 +24,22 @@ android {
 ```
 
 #### 디렉토리 이름 수정
-- **{project}/android/app/src/main/kotlin/** 경로로 이동하면 아래와 같은 디렉토리 구조가 있다.
->{project}/android/app/src/main/kotlin/com/example/{프로젝트 이름}
+**{project}/android/app/src/main/kotlin/** 경로로 이동하면 아래와 같은 디렉토리 구조가 있다.
+>{project}/android/app/src/main/kotlin/==com/example/{프로젝트 이름}==
+
+강조된 부분이 패키지명과 구조가 같아야 한다. 예를 들어 =="com.firstapp.myapp"==으로 패키지명을 정하고 싶다면
+>{project}/android/app/src/main/kotlin/==com/firstapp/myapp==
+
+이어야 한다.
+
+#### MainActivity.kt
+- **{project}/android/app/src/main/kotlin/{아까 내가 정한 경로}** 밑에 `MainActivity.kt`파일을 열고 `package`속성을 수정해준다.
+```kt
+package {내가 원하는 패키지 이름}
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
+```
 
