@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
-                "mode": "preview",
+                "file": "Flutter/Android/Android 패키지 이름 수정.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "2dfb36f0824a42bc",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
+                "file": "Flutter/Android/Android 패키지 이름 수정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
+                "file": "Flutter/Android/Android 패키지 이름 수정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md"
+                "file": "Flutter/Android/Android 패키지 이름 수정.md"
               }
             }
           },
@@ -157,15 +158,17 @@
   },
   "active": "76f02cfd7896f80c",
   "lastOpenFiles": [
-    "Flutter/기기 네이티브 기능/카메라로 찍은 이미지 사용하기.md",
+    "Flutter/SNS 로그인/카카오톡으로 로그인.md",
+    "Flutter/Android/Android 패키지 이름 수정.md",
+    "Flutter/Android",
     "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
+    "Flutter/기기 네이티브 기능/카메라로 찍은 이미지 사용하기.md",
     "Flutter/외부 라이브러리/앱 전체 state 접근, 변경하기(riverPod).md",
     "Flutter/widgets/ListView 항목 한번에 만들때.md",
     "Flutter/widgets/Form 관리.md",
     "Flutter/Firebase/Firebase Firestore 사용하기.md",
     "Flutter/Firebase/Firebase Cloud Message 사용하기.md",
     "Flutter/Firebase/Firebase Authentication 사용하기.md",
-    "Flutter/SNS 로그인/카카오톡으로 로그인.md",
     "images/Pasted image 20240212160845.png",
     "images/Pasted image 20240212160652.png",
     "images/Pasted image 20240212140042.png",
@@ -194,7 +197,6 @@
     "Flutter/widgets/위젯을 버튼으로 만들고 싶을 때(Inkwell).md",
     "Flutter/widgets/애니메이션 넣기(Implicit).md",
     "Flutter/widgets/애니메이션 넣기(Explicit).md",
-    "Flutter/일반/enum을 iterable로 만들기.md",
     "Flutter/https(Firebase_RealTimeDatabse)",
     "Flutter/https(Firebase RealTimeDatabse)",
     "Flutter/Firebase",
@@ -203,7 +205,6 @@
     "Flutter/일반",
     "Flutter/외부 라이브러리",
     "Flutter/widgets",
-    "Flutter/기기 네이티브 기능",
     "무제 파일.canvas"
   ]
 }
