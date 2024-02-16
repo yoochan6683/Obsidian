@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
+                "file": "Flutter/Firebase/Firebase Firestore 사용하기.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "2dfb36f0824a42bc",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
+                "file": "Flutter/Firebase/Firebase Firestore 사용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
+                "file": "Flutter/Firebase/Firebase Firestore 사용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md"
+                "file": "Flutter/Firebase/Firebase Firestore 사용하기.md"
               }
             }
           },
@@ -158,6 +157,10 @@
   },
   "active": "efdf01b7ae5d98a8",
   "lastOpenFiles": [
+    "Flutter/Firebase/Firebase Storage 사용하기.md",
+    "Flutter/Firebase/Firebase Cloud Message 사용하기.md",
+    "Flutter/Firebase/Firebase Authentication 사용하기.md",
+    "Flutter/SNS 로그인/카카오톡으로 로그인.md",
     "images/Pasted image 20240215230329.png",
     "images/Pasted image 20240215225737.png",
     "images/Pasted image 20240215225448.png",
@@ -171,7 +174,6 @@
     "C/EOF.md",
     "C/나머지 개수 세기.md",
     "C/체스 색깔 최소 변경 알고리즘.md",
-    "Flutter/SNS 로그인/카카오톡으로 로그인.md",
     "Flutter/Android/Android 패키지 이름 수정.md",
     "Flutter/Android",
     "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
@@ -180,16 +182,12 @@
     "Flutter/widgets/ListView 항목 한번에 만들때.md",
     "Flutter/widgets/Form 관리.md",
     "Flutter/Firebase/Firebase Firestore 사용하기.md",
-    "Flutter/Firebase/Firebase Cloud Message 사용하기.md",
-    "Flutter/Firebase/Firebase Authentication 사용하기.md",
-    "images/Pasted image 20240212160845.png",
     "Flutter/일반/리스트에 key를 포함시켜야 하는 경우.md",
     "Flutter/SNS 로그인",
     "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
     "Flutter/api/Reverse Geocoding(위도, 경도로 주소 받아오기).md",
     "Flutter/api/geolocator 현재 위치 가져오기.md",
     "Flutter/Firebase/https(Firebase RealTimeDatabase)/사용준비.md",
-    "Flutter/Firebase/Firebase Storage 사용하기.md",
     "aduino/examples/while (Serial.available() == 0).md",
     "aduino/functions/Serial.available().md",
     "aduino/functions",
