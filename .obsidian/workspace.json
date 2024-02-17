@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Firebase/Firebase Firestore 사용하기.md",
-                "mode": "preview",
+                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Firebase/Firebase Firestore 사용하기.md",
+                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Firebase/Firebase Firestore 사용하기.md",
+                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Firebase/Firebase Firestore 사용하기.md"
+                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md"
               }
             }
           },
@@ -157,9 +157,10 @@
   },
   "active": "efdf01b7ae5d98a8",
   "lastOpenFiles": [
-    "Flutter/Firebase/Firebase Storage 사용하기.md",
     "Flutter/Firebase/Firebase Cloud Message 사용하기.md",
     "Flutter/Firebase/Firebase Authentication 사용하기.md",
+    "Flutter/Firebase/Firebase Firestore 사용하기.md",
+    "Flutter/Firebase/Firebase Storage 사용하기.md",
     "Flutter/SNS 로그인/카카오톡으로 로그인.md",
     "images/Pasted image 20240215230329.png",
     "images/Pasted image 20240215225737.png",
@@ -181,7 +182,6 @@
     "Flutter/외부 라이브러리/앱 전체 state 접근, 변경하기(riverPod).md",
     "Flutter/widgets/ListView 항목 한번에 만들때.md",
     "Flutter/widgets/Form 관리.md",
-    "Flutter/Firebase/Firebase Firestore 사용하기.md",
     "Flutter/일반/리스트에 key를 포함시켜야 하는 경우.md",
     "Flutter/SNS 로그인",
     "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
