@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Firebase/Untitled.md",
+                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Firebase/Untitled.md",
+                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Firebase/Untitled.md",
+                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Firebase/Untitled.md"
+                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md"
               }
             }
           },
@@ -157,13 +157,13 @@
   },
   "active": "efdf01b7ae5d98a8",
   "lastOpenFiles": [
-    "Flutter/Firebase/Firebase Cloud Message 사용하기.md",
-    "Flutter/Firebase/Untitled.md",
+    "Flutter/Firebase/Firebase Functions 설치.md",
     "Flutter/SNS 로그인/카카오톡으로 로그인.md",
+    "Flutter/Firebase/Firebase Cloud Message 사용하기.md",
+    "Flutter/Firebase/Firebase Firestore 사용하기.md",
     "Flutter/Firebase/Firebase Authentication 사용하기.md",
     "Firebase/Firebase Authentication 사용하기.md",
     "Firebase",
-    "Flutter/Firebase/Firebase Firestore 사용하기.md",
     "Flutter/Firebase/Firebase Storage 사용하기.md",
     "images/Pasted image 20240215230329.png",
     "images/Pasted image 20240215225737.png",
