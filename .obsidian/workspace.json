@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 310.5
   },
   "right": {
     "id": "2dfb36f0824a42bc",
@@ -157,6 +157,8 @@
   },
   "active": "efdf01b7ae5d98a8",
   "lastOpenFiles": [
+    "Firebase/Firebase Authentication 사용하기.md",
+    "Firebase",
     "Flutter/Firebase/Firebase Authentication 사용하기.md",
     "Flutter/SNS 로그인/카카오톡으로 로그인.md",
     "Flutter/Firebase/Firebase Cloud Message 사용하기.md",
@@ -202,7 +204,6 @@
     "Untitled.canvas",
     "Flutter/일반",
     "Flutter/외부 라이브러리",
-    "Flutter/widgets",
     "무제 파일.canvas"
   ]
 }
