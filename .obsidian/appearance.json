@@ -3,5 +3,6 @@
   "cssTheme": "Atom",
   "enabledCssSnippets": [
     "obsidian"
-  ]
+  ],
+  "baseFontSize": 16
 }
