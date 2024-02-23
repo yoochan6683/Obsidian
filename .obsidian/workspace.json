@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
+                "file": "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
+                "file": "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
+                "file": "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md"
+                "file": "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md"
               }
             }
           },
@@ -157,6 +157,8 @@
   },
   "active": "efdf01b7ae5d98a8",
   "lastOpenFiles": [
+    "Flutter/Firebase/Firebase Authentication 사용하기.md",
+    "Flutter/SNS 로그인/카카오톡으로 로그인.md",
     "images/Pasted image 20240218212525.png",
     "images/Pasted image 20240218212434.png",
     "images/Pasted image 20240218212233.png",
@@ -166,16 +168,13 @@
     "images/Pasted image 20240218211316.png",
     "images/Pasted image 20240218211311.png",
     "Flutter/Firebase/Firebase Functions 설치.md",
-    "Flutter/SNS 로그인/카카오톡으로 로그인.md",
     "Flutter/Firebase/Firebase Cloud Message 사용하기.md",
     "Flutter/Firebase/Firebase Firestore 사용하기.md",
-    "Flutter/Firebase/Firebase Authentication 사용하기.md",
     "Firebase/Firebase Authentication 사용하기.md",
     "Firebase",
     "Flutter/Firebase/Firebase Storage 사용하기.md",
     "images/Pasted image 20240215230329.png",
     "images/Pasted image 20240215225737.png",
-    "images/Pasted image 20240215225448.png",
     "C/EOF.md",
     "C/나머지 개수 세기.md",
     "C/체스 색깔 최소 변경 알고리즘.md",
