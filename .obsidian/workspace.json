@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
+                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
+                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
+                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md"
+                "file": "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md"
               }
             }
           },
@@ -155,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efdf01b7ae5d98a8",
+  "active": "149c58439f82c7b6",
   "lastOpenFiles": [
+    "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
     "Flutter/Firebase/Firebase Authentication 사용하기.md",
     "Flutter/SNS 로그인/카카오톡으로 로그인.md",
     "images/Pasted image 20240218212525.png",
@@ -187,7 +188,6 @@
     "Flutter/widgets/Form 관리.md",
     "Flutter/일반/리스트에 key를 포함시켜야 하는 경우.md",
     "Flutter/SNS 로그인",
-    "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
     "Flutter/api/Reverse Geocoding(위도, 경도로 주소 받아오기).md",
     "Flutter/api/geolocator 현재 위치 가져오기.md",
     "Flutter/Firebase/https(Firebase RealTimeDatabase)/사용준비.md",
