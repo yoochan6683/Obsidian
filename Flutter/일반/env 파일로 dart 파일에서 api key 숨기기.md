@@ -42,5 +42,22 @@ NATIVE_APP_KEY="12341234"
 #### 키 호출
 ```dart
 import 'package:flutter_dotenv/flutter_dotenv.dart';
-dotenv.env[''];
+//아까 정의한 이름으로 호출
+dotenv.env['NATIVE_APP_KEY'];
 ```
+- 필요한 dart 파일 내에서 패키지 import하면 위와 같이 정의한 이름으로 키 호출 가능
+<br>
+
+```dart
+import 'pacakge:flutter_dotenv/flutter_dotenv.dart';
+
+void main() async {
+	WidgetsFlutterBinding.ensureInitialized();
+	
+	//네이티브 앱 키가 그대로 노출됨
+	KakaoSdk.init(nativeAppKey: dotenv.env['NATIVE_APP_KEY']);
+	
+	runApp(const MyApp());
+}
+```
+- 이제 아까 하드코딩으로 들어갔던 네이티브 앱키를 보호할 수 있음
