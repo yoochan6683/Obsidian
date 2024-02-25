@@ -18,5 +18,17 @@ if (kakaoApiKey == null) {
 <br>
 
 ```java
-
+android {
+	buildTypes {
+		debug {
+			manifestPlaceholders = [kakaoApiKey: kakaoApiKey]
+		}
+		release {
+			// 중략
+			signingConfig signingConfigs.debug
+			manifestPlaceholders = [kakaoApiKey: kakaoApiKey]
+		}
+	}
+}
 ```
+- 같은 파일에서 밑에 내려가다 보면 **android -> buildTypes** 가 있는데 이 안에 `debug{}`와 `release{}` 안에 
