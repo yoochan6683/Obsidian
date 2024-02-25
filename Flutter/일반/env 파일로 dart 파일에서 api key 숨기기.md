@@ -21,7 +21,26 @@ dart 파일 내에서 키를 하드코딩해 키가 노출되지 않도록 `.env
 
 #### flutter_dotenv 설치
 [flutter_dotenv 설치](https://pub.dev/packages/flutter_dotenv/install)
-
+flutter_dotenv는 .env에서 키를 관리하고 쉽게 호출할 수 있도록 도와준다
 ```dart
 $ flutter pub add flutter_dotenv
+```
+#### pubspec.yaml
+사진 추가할 때와 똑같이 `assets:` 속성에 `- .env`를 추가한다.
+```yaml
+assets:
+	- assets/images/이미지1.png
+	- assets/images/이미지2.png
+	- .env
+```
+
+#### .env 안에 키 정의
+필요한 키들을 밑에서 호출할 때 사용할 이름과 함께 정의한다. 따옴표 안에 
+```env
+NATIVE_APP_KEY="12341234"
+```
+#### 키 호출
+```dart
+import 'package:flutter_dotenv/flutter_dotenv.dart';
+dotenv.env[''];
 ```
