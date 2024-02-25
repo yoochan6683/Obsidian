@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/일반/Font 적용하기.md",
-                "mode": "preview",
+                "file": "Flutter/Android/AndroidManifest.xml api key 숨기기.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "right": {
     "id": "2dfb36f0824a42bc",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/일반/Font 적용하기.md",
+                "file": "Flutter/Android/AndroidManifest.xml api key 숨기기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/일반/Font 적용하기.md",
+                "file": "Flutter/Android/AndroidManifest.xml api key 숨기기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/일반/Font 적용하기.md"
+                "file": "Flutter/Android/AndroidManifest.xml api key 숨기기.md"
               }
             }
           },
@@ -170,9 +171,10 @@
   },
   "active": "db6a69caead19601",
   "lastOpenFiles": [
+    "Flutter/일반/Font 적용하기.md",
+    "Flutter/Android/AndroidManifest.xml api key 숨기기.md",
     "images/Pasted image 20240224194126.png",
     "Flutter/일반/리스트에 key를 포함시켜야 하는 경우.md",
-    "Flutter/일반/Font 적용하기.md",
     "Flutter/외부 라이브러리/Google Font 사용하기.md",
     "git/gitignore 사용.md",
     "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
@@ -195,7 +197,6 @@
     "Firebase",
     "Flutter/Firebase/Firebase Storage 사용하기.md",
     "images/Pasted image 20240215230329.png",
-    "images/Pasted image 20240215225737.png",
     "C/EOF.md",
     "C/나머지 개수 세기.md",
     "C/체스 색깔 최소 변경 알고리즘.md",
