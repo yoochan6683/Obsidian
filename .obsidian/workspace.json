@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ac8dd2bfbeb4d2cf",
+        "id": "532c08b206e4a32c",
         "type": "tabs",
         "children": [
           {
-            "id": "efdf01b7ae5d98a8",
+            "id": "964ee19145e870ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/일반/리스트에 key를 포함시켜야 하는 경우.md",
+                "file": "Flutter/일반/env 파일로 dart 파일에서 api key 숨기기.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "db6a69caead19601",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flutter/Android/AndroidManifest.xml api key 숨기기.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Android/AndroidManifest.xml api key 숨기기.md",
+                "file": "Flutter/일반/env 파일로 dart 파일에서 api key 숨기기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Android/AndroidManifest.xml api key 숨기기.md",
+                "file": "Flutter/일반/env 파일로 dart 파일에서 api key 숨기기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Android/AndroidManifest.xml api key 숨기기.md"
+                "file": "Flutter/일반/env 파일로 dart 파일에서 api key 숨기기.md"
               }
             }
           },
@@ -169,15 +156,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db6a69caead19601",
+  "active": "964ee19145e870ef",
   "lastOpenFiles": [
-    "Flutter/일반/Font 적용하기.md",
-    "Flutter/Android/AndroidManifest.xml api key 숨기기.md",
-    "images/Pasted image 20240224194126.png",
-    "Flutter/일반/리스트에 key를 포함시켜야 하는 경우.md",
-    "Flutter/외부 라이브러리/Google Font 사용하기.md",
-    "git/gitignore 사용.md",
+    "images/Pasted image 20240225160428.png",
+    "images/Pasted image 20240225160352.png",
     "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
+    "Flutter/일반/env 파일로 dart 파일에서 api key 숨기기.md",
+    "Flutter/일반/리스트에 key를 포함시켜야 하는 경우.md",
+    "Flutter/일반/배열 복사할 때.md",
+    "git/gitignore 사용.md",
+    "Flutter/Android/AndroidManifest.xml api key 숨기기.md",
+    "Flutter/일반/Font 적용하기.md",
+    "images/Pasted image 20240224194126.png",
+    "Flutter/외부 라이브러리/Google Font 사용하기.md",
     "git",
     "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
     "Flutter/Firebase/Firebase Authentication 사용하기.md",
@@ -196,7 +187,6 @@
     "Firebase/Firebase Authentication 사용하기.md",
     "Firebase",
     "Flutter/Firebase/Firebase Storage 사용하기.md",
-    "images/Pasted image 20240215230329.png",
     "C/EOF.md",
     "C/나머지 개수 세기.md",
     "C/체스 색깔 최소 변경 알고리즘.md",
@@ -208,9 +198,6 @@
     "Flutter/widgets/Form 관리.md",
     "Flutter/SNS 로그인",
     "Flutter/api/Reverse Geocoding(위도, 경도로 주소 받아오기).md",
-    "Flutter/api/geolocator 현재 위치 가져오기.md",
-    "Flutter/Firebase/https(Firebase RealTimeDatabase)/사용준비.md",
-    "aduino/examples/while (Serial.available() == 0).md",
     "aduino/functions",
     "Flutter/https(Firebase_RealTimeDatabse)",
     "Flutter/https(Firebase RealTimeDatabse)",
