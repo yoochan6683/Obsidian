@@ -31,4 +31,9 @@ android {
 	}
 }
 ```
-- 같은 파일에서 밑에 내려가다 보면 **android -> buildTypes** 가 있는데 이 안에 `debug{}`와 `release{}` 안에 
+- 같은 파일에서 밑에 내려가다 보면 **android -> buildTypes** 가 있는데 이 안에 `debug{}`와 `release{}` 안에 `manifestPlaceholders` 위와 같이 추가
+#### AndroidManifest.xml
+```xml
+<data android:scheme="kakao${kakaoApiKey}" android:host="oauth"/>
+```
+- 키가 필요한 부분에 `${kakaoApiKey}` 방식으로 넣으면 된다
