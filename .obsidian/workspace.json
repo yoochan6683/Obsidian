@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "532c08b206e4a32c",
+        "id": "9b359f7ff3dd1a94",
         "type": "tabs",
         "children": [
           {
-            "id": "964ee19145e870ef",
+            "id": "d6d769cd2e44695c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flutter/일반/env 파일로 dart 파일에서 api key 숨기기.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/일반/env 파일로 dart 파일에서 api key 숨기기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/일반/env 파일로 dart 파일에서 api key 숨기기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Flutter/일반/env 파일로 dart 파일에서 api key 숨기기.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,16 +148,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "964ee19145e870ef",
+  "active": "d6d769cd2e44695c",
   "lastOpenFiles": [
+    "Flutter/일반/env 파일로 dart 파일에서 api key 숨기기.md",
+    "Flutter/Android/AndroidManifest.xml api key 숨기기.md",
+    "git/gitignore 사용.md",
     "images/Pasted image 20240225160428.png",
     "images/Pasted image 20240225160352.png",
     "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
-    "Flutter/일반/env 파일로 dart 파일에서 api key 숨기기.md",
     "Flutter/일반/리스트에 key를 포함시켜야 하는 경우.md",
     "Flutter/일반/배열 복사할 때.md",
-    "git/gitignore 사용.md",
-    "Flutter/Android/AndroidManifest.xml api key 숨기기.md",
     "Flutter/일반/Font 적용하기.md",
     "images/Pasted image 20240224194126.png",
     "Flutter/외부 라이브러리/Google Font 사용하기.md",
@@ -180,7 +172,6 @@
     "images/Pasted image 20240218211419.png",
     "images/Pasted image 20240218211416.png",
     "images/Pasted image 20240218211316.png",
-    "images/Pasted image 20240218211311.png",
     "Flutter/Firebase/Firebase Functions 설치.md",
     "Flutter/Firebase/Firebase Cloud Message 사용하기.md",
     "Flutter/Firebase/Firebase Firestore 사용하기.md",

@@ -3,7 +3,7 @@
 kakao_api_key=12341234
 ```
 - 이름은 맘대로(kakao_api_key로 하던 kakao.api.key로 하던)정하고 **따옴표 없이** 키 값 넣기
-- (local.properties는 반드시 `.gitignore` 파일에 포함할 것!)
+- (local.properties는 반드시 `.gitignore` 파일에 포함할 것!) [.gitignore 사용법](/git/gitignore%20사용)
 #### android/app/build.gradle
 ```java
 def flutterVersionName = localProperties.getProperty//중략
