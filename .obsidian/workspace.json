@@ -11,8 +11,12 @@
             "id": "d6d769cd2e44695c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Flutter/iOS/Info.plist api key 숨기기.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Flutter/iOS/Info.plist api key 숨기기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Flutter/iOS/Info.plist api key 숨기기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Flutter/iOS/Info.plist api key 숨기기.md"
+              }
             }
           },
           {
@@ -150,6 +158,10 @@
   },
   "active": "d6d769cd2e44695c",
   "lastOpenFiles": [
+    "images/Pasted image 20240226102838.png",
+    "images/Pasted image 20240226102733.png",
+    "Flutter/iOS/Info.plist api key 숨기기.md",
+    "Flutter/iOS",
     "Flutter/일반/env 파일로 dart 파일에서 api key 숨기기.md",
     "Flutter/Android/AndroidManifest.xml api key 숨기기.md",
     "git/gitignore 사용.md",
@@ -171,7 +183,6 @@
     "images/Pasted image 20240218211624.png",
     "images/Pasted image 20240218211419.png",
     "images/Pasted image 20240218211416.png",
-    "images/Pasted image 20240218211316.png",
     "Flutter/Firebase/Firebase Functions 설치.md",
     "Flutter/Firebase/Firebase Cloud Message 사용하기.md",
     "Flutter/Firebase/Firebase Firestore 사용하기.md",
@@ -188,14 +199,12 @@
     "Flutter/widgets/ListView 항목 한번에 만들때.md",
     "Flutter/widgets/Form 관리.md",
     "Flutter/SNS 로그인",
-    "Flutter/api/Reverse Geocoding(위도, 경도로 주소 받아오기).md",
     "aduino/functions",
     "Flutter/https(Firebase_RealTimeDatabse)",
     "Flutter/https(Firebase RealTimeDatabse)",
     "Flutter/Firebase",
     "Flutter/Authentication",
     "Untitled.canvas",
-    "Flutter/일반",
     "무제 파일.canvas"
   ]
 }
