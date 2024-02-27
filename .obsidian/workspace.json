@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/iOS/Info.plist api key 숨기기.md",
-                "mode": "preview",
+                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "right": {
     "id": "2dfb36f0824a42bc",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/iOS/Info.plist api key 숨기기.md",
+                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/iOS/Info.plist api key 숨기기.md",
+                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/iOS/Info.plist api key 숨기기.md"
+                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md"
               }
             }
           },
@@ -158,9 +157,10 @@
   },
   "active": "d6d769cd2e44695c",
   "lastOpenFiles": [
+    "images/Pasted image 20240227162036.png",
+    "Flutter/iOS/Info.plist api key 숨기기.md",
     "images/Pasted image 20240226102838.png",
     "images/Pasted image 20240226102733.png",
-    "Flutter/iOS/Info.plist api key 숨기기.md",
     "Flutter/iOS",
     "Flutter/일반/env 파일로 dart 파일에서 api key 숨기기.md",
     "Flutter/Android/AndroidManifest.xml api key 숨기기.md",
@@ -182,7 +182,6 @@
     "images/Pasted image 20240218212233.png",
     "images/Pasted image 20240218211624.png",
     "images/Pasted image 20240218211419.png",
-    "images/Pasted image 20240218211416.png",
     "Flutter/Firebase/Firebase Functions 설치.md",
     "Flutter/Firebase/Firebase Cloud Message 사용하기.md",
     "Flutter/Firebase/Firebase Firestore 사용하기.md",
