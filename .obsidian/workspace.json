@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
+                "file": "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
+                "file": "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
+                "file": "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md"
+                "file": "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "d6d769cd2e44695c",
   "lastOpenFiles": [
+    "Flutter/SNS 로그인/카카오톡으로 로그인.md",
     "images/Pasted image 20240227163442.png",
     "images/Pasted image 20240227163356.png",
     "images/Pasted image 20240227163011.png",
@@ -179,9 +180,7 @@
     "git",
     "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
     "Flutter/Firebase/Firebase Authentication 사용하기.md",
-    "Flutter/SNS 로그인/카카오톡으로 로그인.md",
     "images/Pasted image 20240218212525.png",
-    "images/Pasted image 20240218212434.png",
     "Flutter/Firebase/Firebase Functions 설치.md",
     "Flutter/Firebase/Firebase Cloud Message 사용하기.md",
     "Flutter/Firebase/Firebase Firestore 사용하기.md",
