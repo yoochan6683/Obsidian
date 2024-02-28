@@ -11,11 +11,9 @@
             "id": "d6d769cd2e44695c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20240210193412.png"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "2024021821",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
+                "file": "images/Pasted image 20240210193412.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
+                "file": "images/Pasted image 20240210193412.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md"
+                "file": "images/Pasted image 20240210193412.png"
               }
             }
           },
@@ -157,6 +155,18 @@
   },
   "active": "d6d769cd2e44695c",
   "lastOpenFiles": [
+    "images/Pasted image 20240211134721.png",
+    "images/Pasted image 20240211154858.png",
+    "images/Pasted image 20240215160940.png",
+    "images/Pasted image 20240212160845.png",
+    "images/Pasted image 20240212160652.png",
+    "images/Pasted image 20240212140042.png",
+    "images/Pasted image 20240212135931.png",
+    "images/Pasted image 20240212135924.png",
+    "images/Pasted image 20240212135915.png",
+    "images/Pasted image 20240211154917.png",
+    "images/Pasted image 20240211162946.png",
+    "Flutter/SNS 로그인/카카오톡으로 로그인.md",
     "Flutter/iOS/Info.plist api key 숨기기.md",
     "Flutter/Firebase/Firebase Storage 사용하기.md",
     "Flutter/Firebase/Firebase Functions 설치.md",
@@ -181,20 +191,8 @@
     "Flutter/일반/리스트에 key를 포함시켜야 하는 경우.md",
     "Flutter/외부 라이브러리/Google Font 사용하기.md",
     "Flutter/외부 라이브러리/앱 전체 state 접근, 변경하기(riverPod).md",
-    "Flutter/외부 라이브러리/스플레시, 인트로 화면 만들기.md",
-    "Flutter/기기 네이티브 기능/sqflite CRUD.md",
-    "images/Pasted image 20240227163442.png",
-    "images/Pasted image 20240227163356.png",
-    "images/Pasted image 20240227163011.png",
-    "images/Pasted image 20240227162036.png",
-    "images/Pasted image 20240226102838.png",
-    "images/Pasted image 20240226102733.png",
     "Flutter/iOS",
-    "images/Pasted image 20240225160428.png",
-    "images/Pasted image 20240225160352.png",
-    "images/Pasted image 20240224194126.png",
     "git",
-    "images/Pasted image 20240218212525.png",
     "Firebase",
     "Flutter/Android",
     "Flutter/SNS 로그인",
