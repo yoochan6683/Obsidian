@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
-                "mode": "source",
+                "file": "Flutter/외부 라이브러리/스플레시, 인트로 화면 만들기.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
+                "file": "Flutter/외부 라이브러리/스플레시, 인트로 화면 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
+                "file": "Flutter/외부 라이브러리/스플레시, 인트로 화면 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md"
+                "file": "Flutter/외부 라이브러리/스플레시, 인트로 화면 만들기.md"
               }
             }
           },
@@ -157,6 +157,10 @@
   },
   "active": "d6d769cd2e44695c",
   "lastOpenFiles": [
+    "Flutter/외부 라이브러리/앱 전체 state 접근, 변경하기(riverPod).md",
+    "Flutter/외부 라이브러리/스플레시, 인트로 화면 만들기.md",
+    "Flutter/외부 라이브러리/Google Font 사용하기.md",
+    "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
     "Flutter/SNS 로그인/카카오톡으로 로그인.md",
     "images/Pasted image 20240227163442.png",
     "images/Pasted image 20240227163356.png",
@@ -176,9 +180,7 @@
     "Flutter/일반/배열 복사할 때.md",
     "Flutter/일반/Font 적용하기.md",
     "images/Pasted image 20240224194126.png",
-    "Flutter/외부 라이브러리/Google Font 사용하기.md",
     "git",
-    "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
     "Flutter/Firebase/Firebase Authentication 사용하기.md",
     "images/Pasted image 20240218212525.png",
     "Flutter/Firebase/Firebase Functions 설치.md",
@@ -193,7 +195,6 @@
     "Flutter/Android/Android 패키지 이름 수정.md",
     "Flutter/Android",
     "Flutter/기기 네이티브 기능/카메라로 찍은 이미지 사용하기.md",
-    "Flutter/외부 라이브러리/앱 전체 state 접근, 변경하기(riverPod).md",
     "Flutter/widgets/ListView 항목 한번에 만들때.md",
     "Flutter/widgets/Form 관리.md",
     "Flutter/SNS 로그인",
