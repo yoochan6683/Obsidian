@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
+                "file": "Flutter/일반/env 파일로 dart 파일에서 api key 숨기기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
+                "file": "Flutter/일반/env 파일로 dart 파일에서 api key 숨기기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
+                "file": "Flutter/일반/env 파일로 dart 파일에서 api key 숨기기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md"
+                "file": "Flutter/일반/env 파일로 dart 파일에서 api key 숨기기.md"
               }
             }
           },
@@ -157,16 +157,23 @@
   },
   "active": "8fbdb04c4142d67e",
   "lastOpenFiles": [
-    "images/Pasted image 20240229164249.png",
+    "Flutter/일반/enum을 iterable로 만들기.md",
     "Flutter/일반/asset 이미지 넣기.md",
+    "Flutter/일반/세로 화면 고정.md",
+    "Flutter/일반/배열 선언 final vs const.md",
+    "Flutter/일반/배열 복사할 때.md",
+    "Flutter/일반/리스트에 key를 포함시켜야 하는 경우.md",
+    "Flutter/외부 라이브러리/Google Font 사용하기.md",
+    "Flutter/외부 라이브러리/앱 전체 state 접근, 변경하기(riverPod).md",
+    "Flutter/외부 라이브러리/스플레시, 인트로 화면 만들기.md",
+    "Flutter/기기 네이티브 기능/sqflite CRUD.md",
+    "Flutter/기기 네이티브 기능/카메라로 찍은 이미지 사용하기.md",
+    "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
+    "Flutter/SNS 로그인/카카오톡으로 로그인.md",
+    "images/Pasted image 20240229164249.png",
     "Flutter/Firebase/Firebase Authentication 사용하기.md",
     "Flutter/widgets/ListView 항목 한번에 만들때.md",
     "Flutter/widgets/위젯을 버튼으로 만들고 싶을 때(Inkwell).md",
-    "Flutter/SNS 로그인/카카오톡으로 로그인.md",
-    "Flutter/일반/enum을 iterable로 만들기.md",
-    "Flutter/기기 네이티브 기능/sqflite CRUD.md",
-    "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
-    "Flutter/기기 네이티브 기능/카메라로 찍은 이미지 사용하기.md",
     "Flutter/iOS/Info.plist api key 숨기기.md",
     "2024-02-29.md",
     "images/Pasted image 20240228151655.png",
@@ -178,7 +185,6 @@
     "images/Pasted image 20240115133102.png",
     "images/Pasted image 20240117153157.png",
     "images/Pasted image 20240117160033.png",
-    "images/Pasted image 20240120000406.png",
     "Flutter/Firebase/Firebase Storage 사용하기.md",
     "Flutter/Firebase/Firebase Functions 설치.md",
     "Flutter/Firebase/Firebase Firestore 사용하기.md",
@@ -187,12 +193,6 @@
     "Flutter/Firebase/https(Firebase RealTimeDatabase)/Get.md",
     "Flutter/Firebase/https(Firebase RealTimeDatabase)/Delete.md",
     "Flutter/Firebase/https(Firebase RealTimeDatabase)/사용준비.md",
-    "Flutter/api/Reverse Geocoding(위도, 경도로 주소 받아오기).md",
-    "Flutter/api/geolocator 현재 위치 가져오기.md",
-    "Flutter/Android/AndroidManifest.xml api key 숨기기.md",
-    "Flutter/Android/Android 패키지 이름 수정.md",
-    "Flutter/일반/Font 적용하기.md",
-    "Flutter/일반/env 파일로 dart 파일에서 api key 숨기기.md",
     "Flutter/iOS",
     "git",
     "Firebase",
