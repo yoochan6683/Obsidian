@@ -11,8 +11,12 @@
             "id": "8fbdb04c4142d67e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-02-29.md"
+                "file": "Flutter/SNS 로그인/카카오톡으로 로그인.md"
               }
             }
           },
@@ -149,11 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "149c58439f82c7b6",
+  "active": "8fbdb04c4142d67e",
   "lastOpenFiles": [
-    "2024-02-29.md",
     "Flutter/iOS/Info.plist api key 숨기기.md",
     "Flutter/SNS 로그인/카카오톡으로 로그인.md",
+    "2024-02-29.md",
     "images/Pasted image 20240228151655.png",
     "images/Pasted image 20240227163011.png",
     "images/Pasted image 20240227163442.png",
