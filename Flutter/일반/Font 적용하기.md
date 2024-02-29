@@ -1,6 +1,6 @@
 #### 폰트 다운
 {프로젝트 디렉토리}/assets/fonts 파일을 만들어 그 안에 필요한 만큼 다운받은 폰트를 넣어준다.
-![](images/Pasted%20image%2020240224194126.png)
+![](/images/Pasted%20image%2020240224194126.png)
 #### pubspec.yaml
 ```dart
 fonts:

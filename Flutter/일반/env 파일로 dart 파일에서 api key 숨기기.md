@@ -15,8 +15,8 @@ dart 파일 내에서 키를 하드코딩해 키가 노출되지 않도록 `.env
 #### .env 파일 생성
 프로젝트 디렉토리에 .env 파일을 생성하고 .gitignore에 추가한다.
 [.gitignore 사용법](/git/gitignore%20사용)
-![](images/Pasted%20image%2020240225160352.png)
-![](images/Pasted%20image%2020240225160428.png)
+![](/images/Pasted%20image%2020240225160352.png)
+![](/images/Pasted%20image%2020240225160428.png)
 - `*.env`는 모든 .env 파일을 무시하겠다는 뜻
 <br>
 
