@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Firebase/https(Firebase RealTimeDatabase)/사용준비.md",
+                "file": "Flutter/Firebase/Firebase Cloud Message 사용하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Firebase/https(Firebase RealTimeDatabase)/사용준비.md",
+                "file": "Flutter/Firebase/Firebase Cloud Message 사용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Firebase/https(Firebase RealTimeDatabase)/사용준비.md",
+                "file": "Flutter/Firebase/Firebase Cloud Message 사용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Firebase/https(Firebase RealTimeDatabase)/사용준비.md"
+                "file": "Flutter/Firebase/Firebase Cloud Message 사용하기.md"
               }
             }
           },
@@ -157,6 +157,11 @@
   },
   "active": "8fbdb04c4142d67e",
   "lastOpenFiles": [
+    "Flutter/Firebase/Firebase Authentication 사용하기.md",
+    "Flutter/Firebase/https(Firebase RealTimeDatabase)/Post.md",
+    "Flutter/Firebase/https(Firebase RealTimeDatabase)/Get.md",
+    "Flutter/Firebase/https(Firebase RealTimeDatabase)/Delete.md",
+    "Flutter/Firebase/https(Firebase RealTimeDatabase)/사용준비.md",
     "Flutter/api/Reverse Geocoding(위도, 경도로 주소 받아오기).md",
     "Flutter/api/geolocator 현재 위치 가져오기.md",
     "Flutter/Android/AndroidManifest.xml api key 숨기기.md",
@@ -177,11 +182,8 @@
     "Flutter/기기 네이티브 기능/기기에 로컬로 데이터 저장하기.md",
     "Flutter/SNS 로그인/카카오톡으로 로그인.md",
     "images/Pasted image 20240229164249.png",
-    "Flutter/Firebase/Firebase Authentication 사용하기.md",
     "Flutter/widgets/ListView 항목 한번에 만들때.md",
     "Flutter/widgets/위젯을 버튼으로 만들고 싶을 때(Inkwell).md",
-    "Flutter/iOS/Info.plist api key 숨기기.md",
-    "2024-02-29.md",
     "images/Pasted image 20240228151655.png",
     "images/Pasted image 20240227163011.png",
     "images/Pasted image 20240227163442.png",
@@ -191,8 +193,6 @@
     "images/Pasted image 20240115133102.png",
     "images/Pasted image 20240117153157.png",
     "images/Pasted image 20240117160033.png",
-    "Flutter/Firebase/Firebase Storage 사용하기.md",
-    "Flutter/Firebase/Firebase Functions 설치.md",
     "Flutter/iOS",
     "git",
     "Firebase",
