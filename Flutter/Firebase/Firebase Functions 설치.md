@@ -21,7 +21,7 @@
 
 - 프로젝트 선택<br>
 ![](/images/Pasted%20image%2020240206154455.png)
-![](images/Pasted%20image%2020240206154516.png)
+![](/images/Pasted%20image%2020240206154516.png)
 <br>
 
 - 부가 설정<br>
