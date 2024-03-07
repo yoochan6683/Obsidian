@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/widgets/알림창 띄우기.md",
+                "file": "Flutter/widgets/화면 이동시 데이터 전달(PopScreen).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/widgets/알림창 띄우기.md",
+                "file": "Flutter/widgets/화면 이동시 데이터 전달(PopScreen).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/widgets/알림창 띄우기.md",
+                "file": "Flutter/widgets/화면 이동시 데이터 전달(PopScreen).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/widgets/알림창 띄우기.md"
+                "file": "Flutter/widgets/화면 이동시 데이터 전달(PopScreen).md"
               }
             }
           },
@@ -155,17 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "149c58439f82c7b6",
+  "active": "8fbdb04c4142d67e",
   "lastOpenFiles": [
+    "Flutter/widgets/Form 관리.md",
+    "General/False && True.md",
+    "Flutter/widgets/알림창 띄우기.md",
     "Untitled",
     "Flutter/외부 라이브러리/앱 전체 state 접근, 변경하기(riverPod).md",
-    "Flutter/widgets/알림창 띄우기.md",
     "Flutter/widgets/화면 이동시 데이터 전달(PopScreen).md",
     "Flutter/SNS 로그인/카카오톡으로 로그인.md",
     "git/gitignore 사용.md",
-    "General/False && True.md",
     "Flutter/widgets/ListView 항목 한번에 만들때.md",
-    "Flutter/widgets/Form 관리.md",
     "Flutter/widgets/위젯을 버튼으로 만들고 싶을 때(Inkwell).md",
     "Flutter/widgets/애니메이션 넣기(Implicit).md",
     "Flutter/widgets/애니메이션 넣기(Explicit).md",
@@ -202,7 +202,6 @@
     "Flutter/https(Firebase_RealTimeDatabse)",
     "Flutter/https(Firebase RealTimeDatabse)",
     "Flutter/Firebase",
-    "Flutter/Authentication",
     "Untitled.canvas",
     "무제 파일.canvas"
   ]
