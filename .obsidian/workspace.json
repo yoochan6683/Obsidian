@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "right": {
     "id": "2dfb36f0824a42bc",
@@ -156,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fbdb04c4142d67e",
+  "active": "149c58439f82c7b6",
   "lastOpenFiles": [
+    "Untitled",
     "Flutter/외부 라이브러리/앱 전체 state 접근, 변경하기(riverPod).md",
     "Flutter/widgets/알림창 띄우기.md",
     "Flutter/widgets/화면 이동시 데이터 전달(PopScreen).md",
@@ -183,7 +183,6 @@
     "Flutter/api/Reverse Geocoding(위도, 경도로 주소 받아오기).md",
     "Flutter/api/geolocator 현재 위치 가져오기.md",
     "Flutter/Android/AndroidManifest.xml api key 숨기기.md",
-    "Flutter/Android/Android 패키지 이름 수정.md",
     "images/Pasted image 20240229164249.png",
     "images/Pasted image 20240228151655.png",
     "images/Pasted image 20240227163011.png",
