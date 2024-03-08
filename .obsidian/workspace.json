@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/widgets/화면 이동시 데이터 전달(PopScreen).md",
+                "file": "C/체스 색깔 최소 변경 알고리즘.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/widgets/화면 이동시 데이터 전달(PopScreen).md",
+                "file": "C/체스 색깔 최소 변경 알고리즘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/widgets/화면 이동시 데이터 전달(PopScreen).md",
+                "file": "C/체스 색깔 최소 변경 알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/widgets/화면 이동시 데이터 전달(PopScreen).md"
+                "file": "C/체스 색깔 최소 변경 알고리즘.md"
               }
             }
           },
@@ -157,12 +157,12 @@
   },
   "active": "8fbdb04c4142d67e",
   "lastOpenFiles": [
+    "Flutter/widgets/화면 이동시 데이터 전달(PopScreen).md",
     "Flutter/widgets/Form 관리.md",
     "General/False && True.md",
     "Flutter/widgets/알림창 띄우기.md",
     "Untitled",
     "Flutter/외부 라이브러리/앱 전체 state 접근, 변경하기(riverPod).md",
-    "Flutter/widgets/화면 이동시 데이터 전달(PopScreen).md",
     "Flutter/SNS 로그인/카카오톡으로 로그인.md",
     "git/gitignore 사용.md",
     "Flutter/widgets/ListView 항목 한번에 만들때.md",
