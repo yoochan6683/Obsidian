@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/체스 색깔 최소 변경 알고리즘.md",
+                "file": "C/EOF.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/체스 색깔 최소 변경 알고리즘.md",
+                "file": "C/EOF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/체스 색깔 최소 변경 알고리즘.md",
+                "file": "C/EOF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/체스 색깔 최소 변경 알고리즘.md"
+                "file": "C/EOF.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "8fbdb04c4142d67e",
   "lastOpenFiles": [
+    "C/체스 색깔 최소 변경 알고리즘.md",
     "Flutter/widgets/화면 이동시 데이터 전달(PopScreen).md",
     "Flutter/widgets/Form 관리.md",
     "General/False && True.md",
