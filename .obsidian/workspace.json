@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/EOF.md",
+                "file": "web/셀레니움(파이썬)/셀레니움 사용하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/EOF.md",
+                "file": "web/셀레니움(파이썬)/셀레니움 사용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/EOF.md",
+                "file": "web/셀레니움(파이썬)/셀레니움 사용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/EOF.md"
+                "file": "web/셀레니움(파이썬)/셀레니움 사용하기.md"
               }
             }
           },
@@ -155,10 +155,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fbdb04c4142d67e",
+  "active": "149c58439f82c7b6",
   "lastOpenFiles": [
-    "2024-03-09.md",
     "C/EOF.md",
+    "web/셀레니움(파이썬)/셀레니움 사용하기.md",
+    "web/셀레니움(파이썬)",
+    "2024-03-09.md",
     "C/체스 색깔 최소 변경 알고리즘.md",
     "Flutter/widgets/화면 이동시 데이터 전달(PopScreen).md",
     "Flutter/widgets/Form 관리.md",
@@ -183,7 +185,6 @@
     "Flutter/Firebase/https(Firebase RealTimeDatabase)/Get.md",
     "Flutter/Firebase/https(Firebase RealTimeDatabase)/Delete.md",
     "Flutter/Firebase/https(Firebase RealTimeDatabase)/사용준비.md",
-    "Flutter/api/Reverse Geocoding(위도, 경도로 주소 받아오기).md",
     "images/Pasted image 20240229164249.png",
     "images/Pasted image 20240228151655.png",
     "images/Pasted image 20240227163011.png",
@@ -202,7 +203,6 @@
     "aduino/functions",
     "Flutter/https(Firebase_RealTimeDatabse)",
     "Flutter/https(Firebase RealTimeDatabse)",
-    "Flutter/Firebase",
     "Untitled.canvas",
     "무제 파일.canvas"
   ]
