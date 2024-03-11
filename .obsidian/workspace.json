@@ -157,6 +157,8 @@
   },
   "active": "8fbdb04c4142d67e",
   "lastOpenFiles": [
+    "2024-03-09.md",
+    "C/EOF.md",
     "C/체스 색깔 최소 변경 알고리즘.md",
     "Flutter/widgets/화면 이동시 데이터 전달(PopScreen).md",
     "Flutter/widgets/Form 관리.md",
@@ -182,8 +184,6 @@
     "Flutter/Firebase/https(Firebase RealTimeDatabase)/Delete.md",
     "Flutter/Firebase/https(Firebase RealTimeDatabase)/사용준비.md",
     "Flutter/api/Reverse Geocoding(위도, 경도로 주소 받아오기).md",
-    "Flutter/api/geolocator 현재 위치 가져오기.md",
-    "Flutter/Android/AndroidManifest.xml api key 숨기기.md",
     "images/Pasted image 20240229164249.png",
     "images/Pasted image 20240228151655.png",
     "images/Pasted image 20240227163011.png",
