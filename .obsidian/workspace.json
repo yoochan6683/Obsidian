@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/iOS/Info.plist api key 숨기기.md",
-                "mode": "preview",
+                "file": "web/셀레니움(파이썬)/셀레니움 사용하기.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/iOS/Info.plist api key 숨기기.md",
+                "file": "web/셀레니움(파이썬)/셀레니움 사용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/iOS/Info.plist api key 숨기기.md",
+                "file": "web/셀레니움(파이썬)/셀레니움 사용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/iOS/Info.plist api key 숨기기.md"
+                "file": "web/셀레니움(파이썬)/셀레니움 사용하기.md"
               }
             }
           },
@@ -157,6 +157,8 @@
   },
   "active": "8fbdb04c4142d67e",
   "lastOpenFiles": [
+    "Flutter/Firebase/Firebase Authentication 사용하기.md",
+    "Flutter/iOS/Info.plist api key 숨기기.md",
     "web/셀레니움(파이썬)/셀레니움 사용하기.md",
     "images/Pasted image 20240312233027.png",
     "git/gitignore 사용.md",
@@ -177,12 +179,10 @@
     "Flutter/widgets/애니메이션 넣기(Implicit).md",
     "Flutter/widgets/애니메이션 넣기(Explicit).md",
     "Flutter/widgets/로그인 상태에 따라 화면전환하기(StreamBuilder).md",
-    "Flutter/iOS/Info.plist api key 숨기기.md",
     "Flutter/Firebase/Firebase Storage 사용하기.md",
     "Flutter/Firebase/Firebase Functions 설치.md",
     "Flutter/Firebase/Firebase Firestore 사용하기.md",
     "Flutter/Firebase/Firebase Cloud Message 사용하기.md",
-    "Flutter/Firebase/Firebase Authentication 사용하기.md",
     "Flutter/Firebase/https(Firebase RealTimeDatabase)/Post.md",
     "Flutter/Firebase/https(Firebase RealTimeDatabase)/Get.md",
     "Flutter/Firebase/https(Firebase RealTimeDatabase)/Delete.md",
