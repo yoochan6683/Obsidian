@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/셀레니움(파이썬)/셀레니움 사용하기.md",
+                "file": "git/gitignore 사용.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web/셀레니움(파이썬)/셀레니움 사용하기.md",
+                "file": "git/gitignore 사용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web/셀레니움(파이썬)/셀레니움 사용하기.md",
+                "file": "git/gitignore 사용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/셀레니움(파이썬)/셀레니움 사용하기.md"
+                "file": "git/gitignore 사용.md"
               }
             }
           },
@@ -157,9 +157,9 @@
   },
   "active": "8fbdb04c4142d67e",
   "lastOpenFiles": [
+    "web/셀레니움(파이썬)/셀레니움 사용하기.md",
     "images/Pasted image 20240311151739.png",
     "C/EOF.md",
-    "web/셀레니움(파이썬)/셀레니움 사용하기.md",
     "web/셀레니움(파이썬)",
     "2024-03-09.md",
     "C/체스 색깔 최소 변경 알고리즘.md",
@@ -194,7 +194,6 @@
     "images/Pasted image 20240115133052.png",
     "images/Pasted image 20240115133102.png",
     "images/Pasted image 20240117153157.png",
-    "images/Pasted image 20240117160033.png",
     "Flutter/iOS",
     "git",
     "Firebase",
